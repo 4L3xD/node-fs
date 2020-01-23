@@ -1,0 +1,5293 @@
+[
+  {
+    "raizCnpjCpf": "13346592",
+    "razaoSocialNome": "EXPRESSO TRANSP AGUAI LTDA",
+    "codigoAgenteSIMP": "5013346592",
+    "dataAutorizacaoInstalacao": "11/03/2014",
+    "logradouro": "RUA VALLINS",
+    "numero": "566",
+    "complemento": "",
+    "bairro": "C",
+    "municipio": "AGUAI",
+    "uf": "SP",
+    "cep": "13860000",
+    "instalacao": {
+      "cnpjCpf": "13346592000140",
+      "nomeInstalacao": "EXPRESSO TRANSP AGUAI LTDA",
+      "codigoAgenteSIMP": "1204845",
+      "logradouro": "RUA VALLINS",
+      "numero": "566",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "municipio": "AGUAI",
+      "uf": "SP",
+      "cep": "13860000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "58746744",
+    "razaoSocialNome": "IBEROS TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5058746744",
+    "dataAutorizacaoInstalacao": "22/12/2014",
+    "logradouro": "ESTRADA  JOSÉ GALLARDO",
+    "numero": "s/n",
+    "complemento": "",
+    "bairro": "GALLARDO",
+    "municipio": "AGUAI",
+    "uf": "SP",
+    "cep": "13860000",
+    "instalacao": {
+      "cnpjCpf": "58746744000130",
+      "nomeInstalacao": "IBEROS TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1211607",
+      "logradouro": "RODOVIA SP225 KM04",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "GALLARDO",
+      "municipio": "AGUAI",
+      "uf": "SP",
+      "cep": "13860000",
+      "licensa": {
+        "orgaoEmissor": "63000271",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "08/09/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "06207276",
+    "razaoSocialNome": "IBERTRANS TRANPORTES LTDA",
+    "codigoAgenteSIMP": "5006207276",
+    "dataAutorizacaoInstalacao": "22/12/2014",
+    "logradouro": "RUA 7 DE  SETEMBRO",
+    "numero": "360",
+    "complemento": "SALA 1",
+    "bairro": "CENTRO",
+    "municipio": "AGUAI",
+    "uf": "SP",
+    "cep": "13860000",
+    "instalacao": {
+      "cnpjCpf": "06207276000121",
+      "nomeInstalacao": "IBERTRANS TRANPORTES LTDA",
+      "codigoAgenteSIMP": "1211609",
+      "logradouro": "Rodovia SP 225",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "GALLARDO",
+      "municipio": "AGUAI",
+      "uf": "SP",
+      "cep": "13860000",
+      "licensa": {
+        "orgaoEmissor": "65000271",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "08/09/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46425229",
+    "razaoSocialNome": "Prefeitura Municipal de Aguaí",
+    "codigoAgenteSIMP": "5046425229",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Avenida Olinda Silveira Cruz Braga",
+    "numero": "215",
+    "complemento": "",
+    "bairro": "Parque Interlagos",
+    "municipio": "AGUAI",
+    "uf": "SP",
+    "cep": "13860000",
+    "instalacao": {
+      "cnpjCpf": "46425229000179",
+      "nomeInstalacao": "Prefeitura Municipal de Aguaí",
+      "codigoAgenteSIMP": "1209730",
+      "logradouro": "Avenida Olinda Silveira Cruz Braga",
+      "numero": "215",
+      "complemento": "",
+      "bairro": "Parque Interlagos",
+      "municipio": "AGUAI",
+      "uf": "SP",
+      "cep": "13860000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "33010786",
+    "razaoSocialNome": "CITROSUCO S/A AGROINDUSTRIA",
+    "codigoAgenteSIMP": "5033010786",
+    "dataAutorizacaoInstalacao": "12/02/2014",
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "305",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "municipio": "MATAO",
+    "uf": "SP",
+    "cep": "15990902",
+    "instalacao": {
+      "cnpjCpf": "33010786011898",
+      "nomeInstalacao": "CITROSUCO S/A AGROINDÚSTRIA",
+      "codigoAgenteSIMP": "1204177",
+      "logradouro": "Rodovia Geraldo Pereira de Barros",
+      "numero": "S/n",
+      "complemento": "164",
+      "bairro": "Rural",
+      "municipio": "ANHEMBI",
+      "uf": "SP",
+      "cep": "18620000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "44771350",
+    "razaoSocialNome": "TIETZ EXTRAÇÃO E COMÉRCIO DE MINÉRIOS LTDA",
+    "codigoAgenteSIMP": "5044771350",
+    "dataAutorizacaoInstalacao": "09/12/2014",
+    "logradouro": "Fazenda Boa Vista",
+    "numero": "s/n",
+    "complemento": "Marg. Rio Piracicaba",
+    "bairro": "Boa Vista",
+    "municipio": "ANHEMBI",
+    "uf": "SP",
+    "cep": "18620000",
+    "instalacao": {
+      "cnpjCpf": "44771350000470",
+      "nomeInstalacao": "TIETZ EXTRAÇÃO E COMÉRCIO DE MINÉRIOS LTDA",
+      "codigoAgenteSIMP": "1211319",
+      "logradouro": "Fazenda Boa Vista",
+      "numero": "s/n",
+      "complemento": "SP 191 - KM 42",
+      "bairro": "Boa Vista",
+      "municipio": "ANHEMBI",
+      "uf": "SP",
+      "cep": "18620000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02549051",
+    "razaoSocialNome": "ATADIESEL COMÉRCIO DE DIESEL E LUBRIFICANTES LTDA",
+    "codigoAgenteSIMP": "4002549051",
+    "dataAutorizacaoInstalacao": "16/12/2014",
+    "logradouro": "",
+    "numero": "",
+    "complemento": "",
+    "bairro": "",
+    "municipio": "ARACATUBA",
+    "uf": "SP",
+    "cep": "",
+    "instalacao": {
+      "cnpjCpf": "02549051000100",
+      "nomeInstalacao": "ATADIESEL COMÉRCIO DE DIESEL E LUBRIFICANTES LTDA",
+      "codigoAgenteSIMP": "1032096",
+      "logradouro": "Rua Alziro Zarur",
+      "numero": "832",
+      "complemento": "",
+      "bairro": "Guanabara",
+      "municipio": "ARACATUBA",
+      "uf": "SP",
+      "cep": "16026000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 14
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "44219772",
+    "razaoSocialNome": "MAZETTO INDUSTRIA E COMERCIO DE ALUMINIOS LTDA",
+    "codigoAgenteSIMP": "5044219772",
+    "dataAutorizacaoInstalacao": "11/08/2014",
+    "logradouro": "RUA  DA ROSAS",
+    "numero": "350",
+    "complemento": "",
+    "bairro": "JARDIM SOBRADINHO",
+    "municipio": "ARARAS",
+    "uf": "SP",
+    "cep": "13602009",
+    "instalacao": {
+      "cnpjCpf": "44219772000194",
+      "nomeInstalacao": "MAZETTO INDUSTRIA E COMERCIO DE ALUMINIOS LTDA",
+      "codigoAgenteSIMP": "1208341",
+      "logradouro": "RUA  DA ROSAS",
+      "numero": "350",
+      "complemento": "",
+      "bairro": "JARDIM SOBRADINHO",
+      "municipio": "ARARAS",
+      "uf": "SP",
+      "cep": "13602009",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "32466732",
+    "razaoSocialNome": "TRANSUIÇA LOCAÇÃO E PRESTAÇÃO DE SERVIÇOS",
+    "codigoAgenteSIMP": "5032466732",
+    "dataAutorizacaoInstalacao": "08/10/2014",
+    "logradouro": "Rua   Geraldo Del Puppo",
+    "numero": "502",
+    "complemento": "",
+    "bairro": "Civit II",
+    "municipio": "SERRA",
+    "uf": "ES",
+    "cep": "29168074",
+    "instalacao": {
+      "cnpjCpf": "32466732000400",
+      "nomeInstalacao": "TRANSUIÇA LOCAÇÃO E PRESTAÇÃO DE SERVIÇOS",
+      "codigoAgenteSIMP": "1209690",
+      "logradouro": "RODOVIA ANHANGUERA",
+      "numero": "165",
+      "complemento": "KM: 165,8",
+      "bairro": "JARDIM CANDIDA",
+      "municipio": "ARARAS",
+      "uf": "SP",
+      "cep": "13603002",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08104691",
+    "razaoSocialNome": "JF CITRUS AGROPECUARIA S/A",
+    "codigoAgenteSIMP": "5008104691",
+    "dataAutorizacaoInstalacao": "04/12/2014",
+    "logradouro": "rodovia governador almino monteiro alvares afonso",
+    "numero": "KM 10",
+    "complemento": "",
+    "bairro": "zona rural",
+    "municipio": "MOGI GUACU",
+    "uf": "SP",
+    "cep": "13840000",
+    "instalacao": {
+      "cnpjCpf": "08104691001580",
+      "nomeInstalacao": "JF CITRUS AGROPECUARIA S/A",
+      "codigoAgenteSIMP": "1211185",
+      "logradouro": "FAZENDA SANTA ADÉLIA II",
+      "numero": "S/N",
+      "complemento": "FAZENDA SANTA ADÉLIA II",
+      "bairro": "ZONA RURAL",
+      "municipio": "AVARE",
+      "uf": "SP",
+      "cep": "18700970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46634168",
+    "razaoSocialNome": "Prefeitura Municipal de Avaré",
+    "codigoAgenteSIMP": "5046634168",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "AVENIDA ANAPOLIS",
+    "numero": "777",
+    "complemento": "",
+    "bairro": "PARQUE INDUSTRIAL JURUMIRIM",
+    "municipio": "AVARE",
+    "uf": "SP",
+    "cep": "18704000",
+    "instalacao": {
+      "cnpjCpf": "46634168000150",
+      "nomeInstalacao": "Prefeitura Municipal de Avaré",
+      "codigoAgenteSIMP": "1209820",
+      "logradouro": "AVENIDA ANAPOLIS",
+      "numero": "777",
+      "complemento": "",
+      "bairro": "PARQUE INDUSTRIAL JURUMIRIM",
+      "municipio": "AVARE",
+      "uf": "SP",
+      "cep": "18704000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "4",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "5",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "6",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "17483036",
+    "razaoSocialNome": "Spajari Transporte e Logística Ltda.",
+    "codigoAgenteSIMP": "5017483036",
+    "dataAutorizacaoInstalacao": "25/11/2014",
+    "logradouro": "Rua   1",
+    "numero": "70",
+    "complemento": "Sala 1",
+    "bairro": "Betel",
+    "municipio": "PAULINIA",
+    "uf": "SP",
+    "cep": "13148163",
+    "instalacao": {
+      "cnpjCpf": "17483036000176",
+      "nomeInstalacao": "Spajari Transporte e Logística Ltda.",
+      "codigoAgenteSIMP": "1210862",
+      "logradouro": "Rua Tenente  João Firmino Alves",
+      "numero": "8-49",
+      "complemento": "",
+      "bairro": "Parque Paulista",
+      "municipio": "BAURU",
+      "uf": "SP",
+      "cep": "17031360",
+      "licensa": {
+        "orgaoEmissor": "04635/2017-DL",
+        "numeroProtocolo": "FEPAM",
+        "dataValidadeLicenca": "13/08/2022"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - ADITIVADO",
+          "capacidadeM3": 7.5
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - ADITIVADO",
+          "capacidadeM3": 7.5
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "73410326",
+    "razaoSocialNome": "CERVEJARIA PETROPOLIS S/A",
+    "codigoAgenteSIMP": "5073410326",
+    "dataAutorizacaoInstalacao": "19/03/2014",
+    "logradouro": "DA ASSEMBLEIA",
+    "numero": "00065",
+    "complemento": "SAL 1701",
+    "bairro": "CENTRO",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "cep": "20011001",
+    "instalacao": {
+      "cnpjCpf": "73410326000322",
+      "nomeInstalacao": "CERVEJARIA PETRÓPOLIS",
+      "codigoAgenteSIMP": "1205099",
+      "logradouro": "ESTRADA MUNICIPAL BATISTA FAVORETTI",
+      "numero": "350",
+      "complemento": "",
+      "bairro": "ÁGUA BRANCA",
+      "municipio": "BOITUVA",
+      "uf": "SP",
+      "cep": "18550000",
+      "licensa": {
+        "orgaoEmissor": "61002433",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "21/04/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 30
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "33010786",
+    "razaoSocialNome": "CITROSUCO S/A AGROINDUSTRIA",
+    "codigoAgenteSIMP": "5033010786",
+    "dataAutorizacaoInstalacao": "12/02/2014",
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "305",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "municipio": "MATAO",
+    "uf": "SP",
+    "cep": "15990902",
+    "instalacao": {
+      "cnpjCpf": "33010786012193",
+      "nomeInstalacao": "CITROSUCO S/A AGROINDÚSTRIA",
+      "codigoAgenteSIMP": "1204176",
+      "logradouro": "RODOVIA   GERALDO PEREIRA DE BARROS",
+      "numero": "s/n",
+      "complemento": "km 154",
+      "bairro": "ZONA RURAL",
+      "municipio": "BOTUCATU",
+      "uf": "SP",
+      "cep": "18617890",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "36154458800",
+    "razaoSocialNome": "NEIDE FAZIAN IGE MARQUESIM",
+    "codigoAgenteSIMP": "8361544588",
+    "dataAutorizacaoInstalacao": "11/06/2014",
+    "logradouro": "Estrada Pardinho - Angatuba",
+    "numero": "s/n",
+    "complemento": "Km 19",
+    "bairro": "Zona Rural",
+    "municipio": "PARDINHO",
+    "uf": "SP",
+    "cep": "18640000",
+    "instalacao": {
+      "cnpjCpf": "36154458800",
+      "nomeInstalacao": "NEIDE FAZIAN IGE MARQUESIM",
+      "codigoAgenteSIMP": "1206957",
+      "logradouro": "Estrada Rural",
+      "numero": "S/N",
+      "complemento": "Estancia Manancial",
+      "bairro": "Duratex",
+      "municipio": "BOTUCATU",
+      "uf": "SP",
+      "cep": "18600001",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46634101",
+    "razaoSocialNome": "PREFEITURA MUNICIPAL DE BOTUCATU",
+    "codigoAgenteSIMP": "5046634101",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Praça Professor Pedro Torres",
+    "numero": "100",
+    "complemento": "",
+    "bairro": "centro",
+    "municipio": "BOTUCATU",
+    "uf": "SP",
+    "cep": "18600011",
+    "instalacao": {
+      "cnpjCpf": "46634101000115",
+      "nomeInstalacao": "PREFEITURA MUNICIPAL DE BOTUCATU",
+      "codigoAgenteSIMP": "1209815",
+      "logradouro": "Praça Professor Pedro Torres",
+      "numero": "100",
+      "complemento": "",
+      "bairro": "centro",
+      "municipio": "BOTUCATU",
+      "uf": "SP",
+      "cep": "18600011",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "04900868",
+    "razaoSocialNome": "SAO DIMAS TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5004900868",
+    "dataAutorizacaoInstalacao": "26/06/2014",
+    "logradouro": "RUA PROFESSOR  JOSE VIEIRA DE MENDONCA",
+    "numero": "517",
+    "complemento": "GARAGEM DE ONIBUS",
+    "bairro": "ENGENHO NOGUEIRA",
+    "municipio": "BELO HORIZONTE",
+    "uf": "MG",
+    "cep": "31310260",
+    "instalacao": {
+      "cnpjCpf": "04900868000441",
+      "nomeInstalacao": "SAO DIMAS TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1207191",
+      "logradouro": "AVENIDA DEPUTADO  DANTE DELMANTO",
+      "numero": "3290",
+      "complemento": "",
+      "bairro": "VILA PAULISTA",
+      "municipio": "BOTUCATU",
+      "uf": "SP",
+      "cep": "18608393",
+      "licensa": {
+        "orgaoEmissor": "120719201317",
+        "numeroProtocolo": "SEMA",
+        "dataValidadeLicenca": "29/01/2018"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 6
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 9
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "01569043817",
+    "razaoSocialNome": "carlos reinaldo meneghetti",
+    "codigoAgenteSIMP": "8015690438",
+    "dataAutorizacaoInstalacao": "08/07/2014",
+    "logradouro": "",
+    "numero": "",
+    "complemento": "",
+    "bairro": "",
+    "municipio": "",
+    "uf": "",
+    "cep": "",
+    "instalacao": {
+      "cnpjCpf": "01569043817",
+      "nomeInstalacao": "CARLOS REINALDO MENEGHETTI",
+      "codigoAgenteSIMP": "1207477",
+      "logradouro": "ESTRADA DOIS CORREGOS",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "ZONA RURAL",
+      "municipio": "BROTAS",
+      "uf": "SP",
+      "cep": "17380000",
+      "licensa": {
+        "orgaoEmissor": "4321",
+        "numeroProtocolo": "SMA",
+        "dataValidadeLicenca": "08/07/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08006962",
+    "razaoSocialNome": "EDILBERTO ANTONIO MENEGHETTI E OUTROS",
+    "codigoAgenteSIMP": "5008006962",
+    "dataAutorizacaoInstalacao": "11/07/2014",
+    "logradouro": "fazenda santa cruz",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "santa lucia",
+    "municipio": "BROTAS",
+    "uf": "SP",
+    "cep": "17380000",
+    "instalacao": {
+      "cnpjCpf": "08006962000402",
+      "nomeInstalacao": "EDILBERTO ANTONIO MENEGHETTI E OUTROS",
+      "codigoAgenteSIMP": "1207555",
+      "logradouro": "fazenda santa cruz",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "santa lucia",
+      "municipio": "BROTAS",
+      "uf": "SP",
+      "cep": "17380000",
+      "licensa": {
+        "orgaoEmissor": "123654",
+        "numeroProtocolo": "FATMA",
+        "dataValidadeLicenca": "11/08/2016"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "16194455810",
+    "razaoSocialNome": "JOSE WAGNER MENEGHETTI",
+    "codigoAgenteSIMP": "8161944558",
+    "dataAutorizacaoInstalacao": "08/07/2014",
+    "logradouro": "FAZ LOTE BAIANO,S/N,",
+    "numero": "s/n",
+    "complemento": "",
+    "bairro": "ZONA RURAL",
+    "municipio": "VICENTINA",
+    "uf": "MS",
+    "cep": "00000000",
+    "instalacao": {
+      "cnpjCpf": "16194455810",
+      "nomeInstalacao": "JOSE WAGNER MENEGHETTI",
+      "codigoAgenteSIMP": "1207478",
+      "logradouro": "ESTRADA DOIS CORREGOS",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "independencia",
+      "municipio": "BROTAS",
+      "uf": "SP",
+      "cep": "17380000",
+      "licensa": {
+        "orgaoEmissor": "2563",
+        "numeroProtocolo": "SMA",
+        "dataValidadeLicenca": "08/07/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "04767864",
+    "razaoSocialNome": "Santa Cacilia Distribuidora De Hortifruti Ltda",
+    "codigoAgenteSIMP": "5004767864",
+    "dataAutorizacaoInstalacao": "06/03/2014",
+    "logradouro": "Av. Sao paulo",
+    "numero": "1.430",
+    "complemento": "",
+    "bairro": "Jacare",
+    "municipio": "CABREUVA",
+    "uf": "SP",
+    "cep": "13315000",
+    "instalacao": {
+      "cnpjCpf": "04767864000194",
+      "nomeInstalacao": "Santa Cacilia Distribuidora De Hortifruti Ltda",
+      "codigoAgenteSIMP": "1204725",
+      "logradouro": "Av. Sao paulo",
+      "numero": "1.430",
+      "complemento": "",
+      "bairro": "Jacare",
+      "municipio": "CABREUVA",
+      "uf": "SP",
+      "cep": "13315000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45780095",
+    "razaoSocialNome": "Prefeitura Municipal de Campo Limpo Paulista",
+    "codigoAgenteSIMP": "5045780095",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "AVENIDA   JOAO AMATO",
+    "numero": "1951",
+    "complemento": "",
+    "bairro": "CHACARA LAGOA BRANCA",
+    "municipio": "CAMPO LIMPO PAULISTA",
+    "uf": "SP",
+    "cep": "13231620",
+    "instalacao": {
+      "cnpjCpf": "45780095000141",
+      "nomeInstalacao": "Prefeitura Municipal de Campo Limpo Paulista",
+      "codigoAgenteSIMP": "1209822",
+      "logradouro": "AVENIDA   JOAO AMATO",
+      "numero": "1951",
+      "complemento": "",
+      "bairro": "CHACARA LAGOA BRANCA",
+      "municipio": "CAMPO LIMPO PAULISTA",
+      "uf": "SP",
+      "cep": "13231620",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "3",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "01754743",
+    "razaoSocialNome": "TRANSPORTADORA E LOCADORA VASCONCELOS MAIA LTDA",
+    "codigoAgenteSIMP": "5001754743",
+    "dataAutorizacaoInstalacao": "11/06/2014",
+    "logradouro": "AVENIDA   JOAO AMATO",
+    "numero": "2503",
+    "complemento": "",
+    "bairro": "CHACARA LAGOA BRANCA",
+    "municipio": "CAMPO LIMPO PAULISTA",
+    "uf": "SP",
+    "cep": "13231620",
+    "instalacao": {
+      "cnpjCpf": "01754743000209",
+      "nomeInstalacao": "TRANSPORTADORA E LOCADORA VASCONCELOS MAIA LTDA",
+      "codigoAgenteSIMP": "1206961",
+      "logradouro": "AVENIDA   JOAO AMATO",
+      "numero": "2503",
+      "complemento": "",
+      "bairro": "CHACARA LAGOA BRANCA",
+      "municipio": "CAMPO LIMPO PAULISTA",
+      "uf": "SP",
+      "cep": "13231620",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 5
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "06061365",
+    "razaoSocialNome": "COMERCIO DE MATERIAIS DE CONSTRUÇAO MAZZA C. J. LTDA EPP",
+    "codigoAgenteSIMP": "5006061365",
+    "dataAutorizacaoInstalacao": "21/05/2014",
+    "logradouro": "R ANTONIO SIMOES DOS REIS",
+    "numero": "40",
+    "complemento": "",
+    "bairro": "VILA JAGUARIBE",
+    "municipio": "CAMPOS DO JORDAO",
+    "uf": "SP",
+    "cep": "12460000",
+    "instalacao": {
+      "cnpjCpf": "06061365000102",
+      "nomeInstalacao": "COMERCIO DE MATERIAIS DE CONSTRUÇAO MAZZA C. J. LTDA.",
+      "codigoAgenteSIMP": "1042374",
+      "logradouro": "AVENIDA FREI ORESTES GIRARDI",
+      "numero": "2295",
+      "complemento": "",
+      "bairro": "VILA JAGUARIBE",
+      "municipio": "CAMPOS DO JORDAO",
+      "uf": "SP",
+      "cep": "12460000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08090084",
+    "razaoSocialNome": "domingos sergio quartieri",
+    "codigoAgenteSIMP": "5008090084",
+    "dataAutorizacaoInstalacao": "24/06/2014",
+    "logradouro": "jaguari",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "venda branca",
+    "municipio": "CASA BRANCA",
+    "uf": "SP",
+    "cep": "13700000",
+    "instalacao": {
+      "cnpjCpf": "08090084000456",
+      "nomeInstalacao": "domingos sergio quartieri",
+      "codigoAgenteSIMP": "1207170",
+      "logradouro": "jaguari",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "venda branca",
+      "municipio": "CASA BRANCA",
+      "uf": "SP",
+      "cep": "13700000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08428416",
+    "razaoSocialNome": "EDNO LUIS O MORAES",
+    "codigoAgenteSIMP": "5008428416",
+    "dataAutorizacaoInstalacao": "02/05/2014",
+    "logradouro": "FAZ PRUDENTE DO MORRO",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "RURAL",
+    "municipio": "CASA BRANCA",
+    "uf": "SP",
+    "cep": "13700000",
+    "instalacao": {
+      "cnpjCpf": "08428416000117",
+      "nomeInstalacao": "EDNO LUIS O MORAES",
+      "codigoAgenteSIMP": "1205966",
+      "logradouro": "FAZ PRUDENTE DO MORRO",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "RURAL",
+      "municipio": "CASA BRANCA",
+      "uf": "SP",
+      "cep": "13700000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45735479",
+    "razaoSocialNome": "Prefeitura Municipal de Casa Branca",
+    "codigoAgenteSIMP": "5045735479",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Praça Rui Barbosa",
+    "numero": "56",
+    "complemento": "",
+    "bairro": "Centro",
+    "municipio": "CASA BRANCA",
+    "uf": "SP",
+    "cep": "13700970",
+    "instalacao": {
+      "cnpjCpf": "45735479000142",
+      "nomeInstalacao": "Prefeitura Municipal de Casa Branca",
+      "codigoAgenteSIMP": "1209821",
+      "logradouro": "Praça Rui Barbosa",
+      "numero": "56",
+      "complemento": "",
+      "bairro": "Centro",
+      "municipio": "CASA BRANCA",
+      "uf": "SP",
+      "cep": "13700970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 5
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 7.5
+        },
+        {
+          "nome": "4",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 2.5
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08213660",
+    "razaoSocialNome": "RENE PIRES EUSTACHIO",
+    "codigoAgenteSIMP": "5008213660",
+    "dataAutorizacaoInstalacao": "11/03/2014",
+    "logradouro": "FAZENDA IPE",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "ZONA RURAL",
+    "municipio": "CASA BRANCA",
+    "uf": "SP",
+    "cep": "13700000",
+    "instalacao": {
+      "cnpjCpf": "08213660000162",
+      "nomeInstalacao": "RENE PIRES EUSTACHIO",
+      "codigoAgenteSIMP": "1204842",
+      "logradouro": "FAZENDA IPE",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "ZONA INDUSTRIAL",
+      "municipio": "CASA BRANCA",
+      "uf": "SP",
+      "cep": "13700000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "47621396",
+    "razaoSocialNome": "PEDREIRA REMANSO LTDA",
+    "codigoAgenteSIMP": "5047621396",
+    "dataAutorizacaoInstalacao": "26/11/2014",
+    "logradouro": "RUA BAIRRO REMSANO",
+    "numero": "SN",
+    "complemento": "",
+    "bairro": "REMANSO",
+    "municipio": "CORDEIROPOLIS",
+    "uf": "SP",
+    "cep": "13490000",
+    "instalacao": {
+      "cnpjCpf": "47621396000158",
+      "nomeInstalacao": "PEDREIRA REMANSO LTDA",
+      "codigoAgenteSIMP": "1210880",
+      "logradouro": "RUA BAIRRO REMSANO",
+      "numero": "SN",
+      "complemento": "",
+      "bairro": "REMANSO",
+      "municipio": "CORDEIROPOLIS",
+      "uf": "SP",
+      "cep": "13490000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "44660272",
+    "razaoSocialNome": "PREFEITURA MUNICIPAL DE CORDEIROPOLIS",
+    "codigoAgenteSIMP": "5044660272",
+    "dataAutorizacaoInstalacao": "20/06/2014",
+    "logradouro": "PRAÇA FRANCISCO ORLANDO STOCCO",
+    "numero": "35",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "municipio": "CORDEIROPOLIS",
+    "uf": "SP",
+    "cep": "13490000",
+    "instalacao": {
+      "cnpjCpf": "44660272000193",
+      "nomeInstalacao": "PREFEITURA MUNICIPAL DE CORDEIROPOLIS",
+      "codigoAgenteSIMP": "1207119",
+      "logradouro": "PRAÇA FRANCISCO ORLANDO STOCCO",
+      "numero": "35",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "municipio": "CORDEIROPOLIS",
+      "uf": "SP",
+      "cep": "13490000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "62162847",
+    "razaoSocialNome": "JOFEGE PAVIMENTAÇÃO E CONSTRUÇÃO LTDA",
+    "codigoAgenteSIMP": "5062162847",
+    "dataAutorizacaoInstalacao": "02/10/2014",
+    "logradouro": "RUA   PEDRO MASCAGNI",
+    "numero": "650",
+    "complemento": "",
+    "bairro": "JARDIM GALETTO",
+    "municipio": "ITATIBA",
+    "uf": "SP",
+    "cep": "13253140",
+    "instalacao": {
+      "cnpjCpf": "62162847001363",
+      "nomeInstalacao": "JOFEGE PAVIMENTAÇÃO E CONSTRUÇÃO LTDA",
+      "codigoAgenteSIMP": "1209495",
+      "logradouro": "Estrada Municipal Corumbataí Rio Claro",
+      "numero": "sn",
+      "complemento": "Sitio Barra Mansa",
+      "bairro": "Ferraz",
+      "municipio": "CORUMBATAI",
+      "uf": "SP",
+      "cep": "13540000",
+      "licensa": {
+        "orgaoEmissor": "21005663",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "29/10/2016"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "53959318",
+    "razaoSocialNome": "MINERAÇÃO DO VALE LTDA",
+    "codigoAgenteSIMP": "5053959318",
+    "dataAutorizacaoInstalacao": "14/04/2014",
+    "logradouro": "Sítio Palmeiras - Estrada Municipal Rio Claro x Corumbataí",
+    "numero": "s/n",
+    "complemento": "bloco matão - perimetro 2181",
+    "bairro": "Zona Rural",
+    "municipio": "CORUMBATAI",
+    "uf": "SP",
+    "cep": "13540000",
+    "instalacao": {
+      "cnpjCpf": "53959318000241",
+      "nomeInstalacao": "MINERAÇÃO DO VALE LTDA",
+      "codigoAgenteSIMP": "1205614",
+      "logradouro": "Sítio Palmeiras - Estrada Municipal Rio Claro x Corumbataí",
+      "numero": "s/n",
+      "complemento": "bloco matão - perimetro 2181",
+      "bairro": "Zona Rural",
+      "municipio": "CORUMBATAI",
+      "uf": "SP",
+      "cep": "13540000",
+      "licensa": {
+        "orgaoEmissor": "21005474",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "18/07/2016"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "51642635",
+    "razaoSocialNome": "Câmara Municipal de Cubatão",
+    "codigoAgenteSIMP": "5051642635",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "RUA   BERNARDO PINTO",
+    "numero": "401",
+    "complemento": "",
+    "bairro": "VILA PAULISTA",
+    "municipio": "CUBATAO",
+    "uf": "SP",
+    "cep": "11510260",
+    "instalacao": {
+      "cnpjCpf": "51642635000123",
+      "nomeInstalacao": "Câmara Municipal de Cubatão",
+      "codigoAgenteSIMP": "1209810",
+      "logradouro": "RUA   BERNARDO PINTO",
+      "numero": "401",
+      "complemento": "",
+      "bairro": "VILA PAULISTA",
+      "municipio": "CUBATAO",
+      "uf": "SP",
+      "cep": "11510260",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "09592093",
+    "razaoSocialNome": "ANDRE RENATO G PINTO",
+    "codigoAgenteSIMP": "5009592093",
+    "dataAutorizacaoInstalacao": "11/04/2014",
+    "logradouro": "SITIO SANTA ANASTACIA",
+    "numero": "S/N",
+    "complemento": "KM 04",
+    "bairro": "LARANJA AZEDA",
+    "municipio": "ELIAS FAUSTO",
+    "uf": "SP",
+    "cep": "13350000",
+    "instalacao": {
+      "cnpjCpf": "09592093000165",
+      "nomeInstalacao": "ANDRE RENATO G PINTO",
+      "codigoAgenteSIMP": "1205607",
+      "logradouro": "SITIO SANTA ANASTACIA",
+      "numero": "S/N",
+      "complemento": "KM 04",
+      "bairro": "LARANJA AZEDA",
+      "municipio": "ELIAS FAUSTO",
+      "uf": "SP",
+      "cep": "13350000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "48654180",
+    "razaoSocialNome": "EXPRESSO PINHAL LTDA - EPP",
+    "codigoAgenteSIMP": "5048654180",
+    "dataAutorizacaoInstalacao": "28/03/2014",
+    "logradouro": "AV WASHINGTON LUIZ",
+    "numero": "470",
+    "complemento": "",
+    "bairro": "JD DAS ROSAS",
+    "municipio": "ESPIRITO SANTO DO PINHAL",
+    "uf": "SP",
+    "cep": "13990000",
+    "instalacao": {
+      "cnpjCpf": "48654180000151",
+      "nomeInstalacao": "EXPRESSO PINHAL LTDA - EPP",
+      "codigoAgenteSIMP": "1205233",
+      "logradouro": "AV WASHINGTON LUIZ",
+      "numero": "470",
+      "complemento": "",
+      "bairro": "JD DAS ROSAS",
+      "municipio": "ESPIRITO SANTO DO PINHAL",
+      "uf": "SP",
+      "cep": "13990000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08877511",
+    "razaoSocialNome": "RAFAELA FINENCIO",
+    "codigoAgenteSIMP": "5008877511",
+    "dataAutorizacaoInstalacao": "24/06/2014",
+    "logradouro": "FAZ SAO JOSE DO JARAGUA",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "CATINQUEIRO",
+    "municipio": "ESPIRITO SANTO DO PINHAL",
+    "uf": "SP",
+    "cep": "13280000",
+    "instalacao": {
+      "cnpjCpf": "08877511000289",
+      "nomeInstalacao": "RAFAELA FINENCIO",
+      "codigoAgenteSIMP": "1207166",
+      "logradouro": "sao jose do jaragua",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "catinqueiro",
+      "municipio": "ESPIRITO SANTO DO PINHAL",
+      "uf": "SP",
+      "cep": "13990000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "00074569",
+    "razaoSocialNome": "RIO DE JANEIRO REFRESCOS LTDA",
+    "codigoAgenteSIMP": "5000074569",
+    "dataAutorizacaoInstalacao": "17/02/2014",
+    "logradouro": "RUA DOUTOR  ARMANDO SALES",
+    "numero": "05",
+    "complemento": "parte",
+    "bairro": "COMENDADOR SOARES",
+    "municipio": "RIO DE JANEIRO",
+    "uf": "RJ",
+    "cep": "26083145",
+    "instalacao": {
+      "cnpjCpf": "00074569005241",
+      "nomeInstalacao": "RIO DE JANEIRO REFRESCOS LTDA",
+      "codigoAgenteSIMP": "1204416",
+      "logradouro": "RUA   PAULO ROBERTO CAVALHEIRO COELHO",
+      "numero": "2741",
+      "complemento": "",
+      "bairro": "PARQUE DO CASTELO",
+      "municipio": "FRANCA",
+      "uf": "SP",
+      "cep": "14403200",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08391345",
+    "razaoSocialNome": "FIGUEIRA INDUSTRIA E COMERCIO S/A",
+    "codigoAgenteSIMP": "9008391345",
+    "dataAutorizacaoInstalacao": "01/10/2014",
+    "logradouro": "DA PEDREIRA",
+    "numero": "S/N",
+    "complemento": "KM 45 + 382M",
+    "bairro": "ZONA RURAL",
+    "municipio": "BURITAMA",
+    "uf": "SP",
+    "cep": "15290000",
+    "instalacao": {
+      "cnpjCpf": "08391345000206",
+      "nomeInstalacao": "FIGUEIRA INDÚSTRIA E COMÉRCIO S/A (GENERALCO)",
+      "codigoAgenteSIMP": "1209481",
+      "logradouro": "ESTRADA DA PEDREIRA KM 08",
+      "numero": "S/N°",
+      "complemento": "",
+      "bairro": "ZONA RURAL",
+      "municipio": "GENERAL SALGADO",
+      "uf": "SP",
+      "cep": "15300000",
+      "licensa": {
+        "orgaoEmissor": "14003795",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "17/10/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 72
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46187506",
+    "razaoSocialNome": "Prefeitura Municipal de Guarantã",
+    "codigoAgenteSIMP": "5046187506",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Rua Professor Sud Menucci",
+    "numero": "198",
+    "complemento": "",
+    "bairro": "Centro",
+    "municipio": "GUARANTA",
+    "uf": "SP",
+    "cep": "16570970",
+    "instalacao": {
+      "cnpjCpf": "46187506000152",
+      "nomeInstalacao": "Prefeitura Municipal de Guarantã",
+      "codigoAgenteSIMP": "1209802",
+      "logradouro": "Rua Professor Sud Menucci",
+      "numero": "198",
+      "complemento": "",
+      "bairro": "Centro",
+      "municipio": "GUARANTA",
+      "uf": "SP",
+      "cep": "16570970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 9
+        },
+        {
+          "nome": "3",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 6
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45066651",
+    "razaoSocialNome": "CORTES ARMAZENS GERAIS LTDA",
+    "codigoAgenteSIMP": "5045066651",
+    "dataAutorizacaoInstalacao": "03/07/2014",
+    "logradouro": "AVENIDA   PIASSAGUERA",
+    "numero": "8100",
+    "complemento": "GLEBA3E",
+    "bairro": "VILA AUREA (VICENTE DE CARVALHO)",
+    "municipio": "GUARUJA",
+    "uf": "SP",
+    "cep": "11454630",
+    "instalacao": {
+      "cnpjCpf": "45066651000112",
+      "nomeInstalacao": "CORTES ARMAZENS GERAIS LTDA",
+      "codigoAgenteSIMP": "1207333",
+      "logradouro": "AVENIDA   PIASSAGUERA",
+      "numero": "8100",
+      "complemento": "GLEBA3E",
+      "bairro": "VILA AUREA (VICENTE DE CARVALHO)",
+      "municipio": "GUARUJA",
+      "uf": "SP",
+      "cep": "11454630",
+      "licensa": {
+        "orgaoEmissor": "99999999999999999999",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "30/01/2050"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "29067113",
+    "razaoSocialNome": "POLIMIX CONCRETO LTDA",
+    "codigoAgenteSIMP": "5029067113",
+    "dataAutorizacaoInstalacao": "25/10/2014",
+    "logradouro": "Avenida   Constran",
+    "numero": "132",
+    "complemento": "PARTE",
+    "bairro": "Vila Industrial",
+    "municipio": "SANTANA DE PARNAIBA",
+    "uf": "SP",
+    "cep": "06516300",
+    "instalacao": {
+      "cnpjCpf": "29067113022165",
+      "nomeInstalacao": "POLIMIX CONCRETO LTDA",
+      "codigoAgenteSIMP": "1210066",
+      "logradouro": "RODOVIA   SP-73",
+      "numero": "6221",
+      "complemento": "",
+      "bairro": "DISTRITO INDUSTRIAL DOMINGOS GIOMI",
+      "municipio": "INDAIATUBA",
+      "uf": "SP",
+      "cep": "13347390",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02298244",
+    "razaoSocialNome": "RFR INDAIATUBA",
+    "codigoAgenteSIMP": "5002298244",
+    "dataAutorizacaoInstalacao": "08/12/2014",
+    "logradouro": "ALAMEDA COMENDADOR DOUTORSANTORO MIRONE",
+    "numero": "386",
+    "complemento": "",
+    "bairro": "RECREIO CAMPESTRE JOIA",
+    "municipio": "INDAIATUBA",
+    "uf": "SP",
+    "cep": "13347300",
+    "instalacao": {
+      "cnpjCpf": "02298244000128",
+      "nomeInstalacao": "RFR INDAIATUBA",
+      "codigoAgenteSIMP": "1211309",
+      "logradouro": "ALAMEDA COMENDADOR DOUTORSANTORO MIRONE",
+      "numero": "386",
+      "complemento": "",
+      "bairro": "RECREIO CAMPESTRE JOIA",
+      "municipio": "INDAIATUBA",
+      "uf": "SP",
+      "cep": "13347300",
+      "licensa": {
+        "orgaoEmissor": "504526",
+        "numeroProtocolo": "IBAMA",
+        "dataValidadeLicenca": "01/02/2015"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 10
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46634085",
+    "razaoSocialNome": "Prefeitura Municipal de Iperó",
+    "codigoAgenteSIMP": "5046634085",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Avenida Santa Cruz",
+    "numero": "355",
+    "complemento": "",
+    "bairro": "Centro",
+    "municipio": "IPERO",
+    "uf": "SP",
+    "cep": "18560000",
+    "instalacao": {
+      "cnpjCpf": "46634085000160",
+      "nomeInstalacao": "Prefeitura Municipal de Iperó",
+      "codigoAgenteSIMP": "1209832",
+      "logradouro": "Avenida Santa Cruz",
+      "numero": "355",
+      "complemento": "",
+      "bairro": "Centro",
+      "municipio": "IPERO",
+      "uf": "SP",
+      "cep": "18560000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 5.6
+        },
+        {
+          "nome": "3",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 5.6
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "33010786",
+    "razaoSocialNome": "CITROSUCO S/A AGROINDUSTRIA",
+    "codigoAgenteSIMP": "5033010786",
+    "dataAutorizacaoInstalacao": "12/02/2014",
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "305",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "municipio": "MATAO",
+    "uf": "SP",
+    "cep": "15990902",
+    "instalacao": {
+      "cnpjCpf": "33010786010905",
+      "nomeInstalacao": "CITROSUCO S/A AGROINDÚSTRIA",
+      "codigoAgenteSIMP": "1204175",
+      "logradouro": "Estrada Municipal",
+      "numero": "S/N",
+      "complemento": "Km 1",
+      "bairro": "Vila Mazzei",
+      "municipio": "ITAPETININGA",
+      "uf": "SP",
+      "cep": "18217000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 20
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "07916189",
+    "razaoSocialNome": "IVALDO LEMES DA COSTA",
+    "codigoAgenteSIMP": "5007916189",
+    "dataAutorizacaoInstalacao": "30/07/2014",
+    "logradouro": "FAZ DAS PERDIZES",
+    "numero": "SN",
+    "complemento": "",
+    "bairro": "CAPÃO ALTO",
+    "municipio": "ITAPETININGA",
+    "uf": "SP",
+    "cep": "18200999",
+    "instalacao": {
+      "cnpjCpf": "07916189000378",
+      "nomeInstalacao": "IVALDO LEMES DA COSTA",
+      "codigoAgenteSIMP": "1208001",
+      "logradouro": "FAZ DAS PERDIZES",
+      "numero": "SN",
+      "complemento": "",
+      "bairro": "CAPÃO ALTO",
+      "municipio": "ITAPETININGA",
+      "uf": "SP",
+      "cep": "18200999",
+      "licensa": {
+        "orgaoEmissor": "14587926512355887984",
+        "numeroProtocolo": "CREA",
+        "dataValidadeLicenca": "30/07/2017"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "61084018",
+    "razaoSocialNome": "VIAÇÃO COMETA S/A",
+    "codigoAgenteSIMP": "5061084018",
+    "dataAutorizacaoInstalacao": "28/07/2014",
+    "logradouro": "RUA   NILTON COELHO DE ANDRADE, 772",
+    "numero": "772",
+    "complemento": "",
+    "bairro": "JARDIM ANDARAI",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "02167900",
+    "instalacao": {
+      "cnpjCpf": "61084018003129",
+      "nomeInstalacao": "VIAÇÃO COMETA S/A",
+      "codigoAgenteSIMP": "1062323",
+      "logradouro": "AVENIDA   JOAO OLIMPIO DE OLIVEIRA",
+      "numero": "1570",
+      "complemento": "",
+      "bairro": "VILA ASEM",
+      "municipio": "ITAPETININGA",
+      "uf": "SP",
+      "cep": "18202000",
+      "licensa": {
+        "orgaoEmissor": "46001655",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "09/03/2021"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - ADITIVADO",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "10194297",
+    "razaoSocialNome": "Paulista SP Transportes Ltda",
+    "codigoAgenteSIMP": "5010194297",
+    "dataAutorizacaoInstalacao": "06/03/2014",
+    "logradouro": "AVENIDA   GUIDO TOMAZONI",
+    "numero": "345",
+    "complemento": "",
+    "bairro": "DISTRITO INDUSTRIAL",
+    "municipio": "ITAPEVA",
+    "uf": "SP",
+    "cep": "18410600",
+    "instalacao": {
+      "cnpjCpf": "10194297000127",
+      "nomeInstalacao": "Paulista SP Transportes Ltda",
+      "codigoAgenteSIMP": "1204730",
+      "logradouro": "Avenida Guido Tomazoni",
+      "numero": "345",
+      "complemento": "",
+      "bairro": "Distrito Industrial",
+      "municipio": "ITAPEVA",
+      "uf": "SP",
+      "cep": "18410600",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 7.5
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "67829598",
+    "razaoSocialNome": "TRANSCOLIMA TRANSPORTE COLETIVO LTDA",
+    "codigoAgenteSIMP": "5067829598",
+    "dataAutorizacaoInstalacao": "11/09/2014",
+    "logradouro": "AVENIDA   GUIDO TOMAZONI",
+    "numero": "240",
+    "complemento": "SALA 1",
+    "bairro": "DISTRITO INDUSTRIAL",
+    "municipio": "ITAPEVA",
+    "uf": "SP",
+    "cep": "18410600",
+    "instalacao": {
+      "cnpjCpf": "67829598000105",
+      "nomeInstalacao": "TRANSCOLIMA TRANSPORTE COLETIVO LTDA",
+      "codigoAgenteSIMP": "1209011",
+      "logradouro": "AVENIDA   GUIDO TOMAZONI",
+      "numero": "240",
+      "complemento": "",
+      "bairro": "DISTRITO INDUSTRIAL",
+      "municipio": "ITAPEVA",
+      "uf": "SP",
+      "cep": "18410600",
+      "licensa": {
+        "orgaoEmissor": "286480201487",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "07/08/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "19573011",
+    "razaoSocialNome": "CRISTO REI - ALIMENTOS LTDA",
+    "codigoAgenteSIMP": "5019573011",
+    "dataAutorizacaoInstalacao": "03/02/2014",
+    "logradouro": "ROD THEODOLINDA NENAGLIA - IPS-020",
+    "numero": "S/Nº",
+    "complemento": "KM-1.8",
+    "bairro": "CHACARA RANCHO REIS",
+    "municipio": "ITAPOLIS",
+    "uf": "SP",
+    "cep": "14900000",
+    "instalacao": {
+      "cnpjCpf": "19573011000199",
+      "nomeInstalacao": "CRISTO REI - ALIMENTOS LTDA",
+      "codigoAgenteSIMP": "1204023",
+      "logradouro": "ROD THEODOLINDA NENAGLIA - IPS-020",
+      "numero": "S/Nº",
+      "complemento": "KM-1.8",
+      "bairro": "CHACARA RANCHO REIS",
+      "municipio": "ITAPOLIS",
+      "uf": "SP",
+      "cep": "14900000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 6
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02942445",
+    "razaoSocialNome": "EJ ESCOLA DE AVIAÇÃO CIVIL LTDA",
+    "codigoAgenteSIMP": "5002942445",
+    "dataAutorizacaoInstalacao": "26/05/2014",
+    "logradouro": "RUA PARANA",
+    "numero": "450",
+    "complemento": "",
+    "bairro": "DISTRITO INDUSTRIAL",
+    "municipio": "ITAPOLIS",
+    "uf": "SP",
+    "cep": "14900000",
+    "instalacao": {
+      "cnpjCpf": "02942445000116",
+      "nomeInstalacao": "EJ ESCOLA DE AVIAÇÃO CIVIL LTDA",
+      "codigoAgenteSIMP": "1206548",
+      "logradouro": "RUA PARANA",
+      "numero": "450",
+      "complemento": "",
+      "bairro": "DISTRITO INDUSTRIAL",
+      "municipio": "ITAPOLIS",
+      "uf": "SP",
+      "cep": "14900000",
+      "licensa": {
+        "orgaoEmissor": "28004491",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "10/01/2021"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "GASOLINA DE AVIAÇÃO",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "QUEROSENE DE AVIAÇÃO",
+          "capacidadeM3": 7.5
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08206939",
+    "razaoSocialNome": "PALMIRO MALOSSO E OUTROS",
+    "codigoAgenteSIMP": "5008206939",
+    "dataAutorizacaoInstalacao": "19/05/2014",
+    "logradouro": "FAZENDA SANTA ADELINA",
+    "numero": "S/N",
+    "complemento": "CAIXA POSTAL 100",
+    "bairro": "BOA VISTA DO SÃO LOURENÇO",
+    "municipio": "ITAPOLIS",
+    "uf": "SP",
+    "cep": "14900000",
+    "instalacao": {
+      "cnpjCpf": "08206939000119",
+      "nomeInstalacao": "PALMIRO MALOSSO E OUTROS",
+      "codigoAgenteSIMP": "1206150",
+      "logradouro": "FAZENDA SANTA ADELINA",
+      "numero": "S/N",
+      "complemento": "CAIXA POSTAL 100",
+      "bairro": "BOA VISTA DO SÃO LOURENÇO",
+      "municipio": "ITAPOLIS",
+      "uf": "SP",
+      "cep": "14900000",
+      "licensa": {
+        "orgaoEmissor": "28003166",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "17/04/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 20
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 20
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "4",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 20
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08206666",
+    "razaoSocialNome": "Palmiro Malosso e Outros",
+    "codigoAgenteSIMP": "5008206666",
+    "dataAutorizacaoInstalacao": "07/11/2014",
+    "logradouro": "Estrada Vicinal Atilio Malosso",
+    "numero": "s/n",
+    "complemento": "",
+    "bairro": "Boa Vista de São Lourenço",
+    "municipio": "ITAPOLIS",
+    "uf": "SP",
+    "cep": "14900000",
+    "instalacao": {
+      "cnpjCpf": "08206666666666",
+      "nomeInstalacao": "Palmiro Malosso e Outros",
+      "codigoAgenteSIMP": "1210515",
+      "logradouro": "Estrada Vicinal Atilio Malosso",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "Boa Vista de São Lourenço",
+      "municipio": "ITAPOLIS",
+      "uf": "SP",
+      "cep": "14900000",
+      "licensa": {
+        "orgaoEmissor": "28/00343/13",
+        "numeroProtocolo": "CETESB",
+        "dataEmissaoProtocolo": "07/11/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 20
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 20
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "10647979",
+    "razaoSocialNome": "CONCESSIONARIA ROTA DAS BANDEIRAS",
+    "codigoAgenteSIMP": "5010647979",
+    "dataAutorizacaoInstalacao": "23/09/2014",
+    "logradouro": "RODOVIA DOM  PEDRO I",
+    "numero": "SN",
+    "complemento": "KM 110 MAIS 400M",
+    "bairro": "SITIO DA MOENDA",
+    "municipio": "ITATIBA",
+    "uf": "SP",
+    "cep": "13252800",
+    "instalacao": {
+      "cnpjCpf": "10647979000148",
+      "nomeInstalacao": "CONCESSIONARIA ROTA DAS BANDEIRAS",
+      "codigoAgenteSIMP": "1209278",
+      "logradouro": "RODOVIA DOM  PEDRO I",
+      "numero": "SN",
+      "complemento": "KM 110 MAIS 400M",
+      "bairro": "SITIO DA MOENDA",
+      "municipio": "ITATIBA",
+      "uf": "SP",
+      "cep": "13252800",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - ADITIVADO",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "60642774",
+    "razaoSocialNome": "OTTO BAUMGART IND. COM. S/A",
+    "codigoAgenteSIMP": "5060642774",
+    "dataAutorizacaoInstalacao": "24/06/2014",
+    "logradouro": "RUA CORONELMARCILIO FRANCO",
+    "numero": "1063",
+    "complemento": "OTTO BAUMGART INDUSTRIA E COMERCIO",
+    "bairro": "VILA ISOLINA MAZZEI",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "02079001",
+    "instalacao": {
+      "cnpjCpf": "60642774000148",
+      "nomeInstalacao": "OTTO BAUMGART IND. COM. S/A",
+      "codigoAgenteSIMP": "1207167",
+      "logradouro": "RODOVIA   ROMILDO PRADO",
+      "numero": "13975",
+      "complemento": "",
+      "bairro": "BAIRRO ITAPEMA",
+      "municipio": "ITATIBA",
+      "uf": "SP",
+      "cep": "13255750",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "01637895",
+    "razaoSocialNome": "VOTORANTIM CIMENTOS SA",
+    "codigoAgenteSIMP": "5001637895",
+    "dataAutorizacaoInstalacao": "11/03/2014",
+    "logradouro": "Rodovia   DF-150, km 18",
+    "numero": "S/N",
+    "complemento": "KM 14,4",
+    "bairro": "Setor Habitacional Fercal (Sobradinho)",
+    "municipio": "BRASILIA",
+    "uf": "DF",
+    "cep": "73150900",
+    "instalacao": {
+      "cnpjCpf": "01637895017370",
+      "nomeInstalacao": "Votorantim Cimentos S/A",
+      "codigoAgenteSIMP": "1204846",
+      "logradouro": "AVENIDA   SETE QUEDAS",
+      "numero": "700",
+      "complemento": "",
+      "bairro": "VILA PADRE BENTO",
+      "municipio": "ITU",
+      "uf": "SP",
+      "cep": "13313006",
+      "licensa": {
+        "orgaoEmissor": "61/00303/16",
+        "numeroProtocolo": "CETESB",
+        "dataEmissaoProtocolo": "01/07/2016"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45131885",
+    "razaoSocialNome": "Prefeitura Municipal de Jales",
+    "codigoAgenteSIMP": "5045131885",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Rua Luiz Amadeu",
+    "numero": "207",
+    "complemento": "",
+    "bairro": "Distrito Industrial II",
+    "municipio": "JALES",
+    "uf": "SP",
+    "cep": "15708004",
+    "instalacao": {
+      "cnpjCpf": "45131885000104",
+      "nomeInstalacao": "Prefeitura Municipal de Jales",
+      "codigoAgenteSIMP": "1209804",
+      "logradouro": "Rua Luiz Amadeu",
+      "numero": "207",
+      "complemento": "",
+      "bairro": "Distrito Industrial II",
+      "municipio": "JALES",
+      "uf": "SP",
+      "cep": "15708004",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 9
+        },
+        {
+          "nome": "3",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 9
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "05107302",
+    "razaoSocialNome": "AC TRANSPORTES E TERRAPLANAGEM LTDA ME",
+    "codigoAgenteSIMP": "5005107302",
+    "dataAutorizacaoInstalacao": "17/01/2014",
+    "logradouro": "RODOVIA   LIMEIRA-PIRACICABA",
+    "numero": "sn",
+    "complemento": "Sitio JR",
+    "bairro": "Graminha - Senador Vergueiro",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13482383",
+    "instalacao": {
+      "cnpjCpf": "05107302000187",
+      "nomeInstalacao": "AC TRANSPORTES E TERRAPLANAGEM LTDA ME",
+      "codigoAgenteSIMP": "1203582",
+      "logradouro": "RODOVIA   LIMEIRA-PIRACICABA",
+      "numero": "sn",
+      "complemento": "Sitio JR",
+      "bairro": "Graminha - Senador Vergueiro",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13482383",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - ADITIVADO",
+          "capacidadeM3": 8
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 7
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "60493335",
+    "razaoSocialNome": "Alves de Souza Transportes Ltda",
+    "codigoAgenteSIMP": "5060493335",
+    "dataAutorizacaoInstalacao": "11/04/2014",
+    "logradouro": "Rodovia josé Santa Rosa",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "Mandiocal",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13480970",
+    "instalacao": {
+      "cnpjCpf": "60493335000110",
+      "nomeInstalacao": "Alves de Souza Transportes Ltda",
+      "codigoAgenteSIMP": "1205609",
+      "logradouro": "Rodovia josé Santa Rosa",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "Mandiocal",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13480970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "52577707",
+    "razaoSocialNome": "ENGEP ENGENHARIA E PAVIMENTACAO LTDA",
+    "codigoAgenteSIMP": "5052577707",
+    "dataAutorizacaoInstalacao": "09/12/2014",
+    "logradouro": "VIA LUIZ VARGA",
+    "numero": "1750",
+    "complemento": "caixa postal 378",
+    "bairro": "GLEBA BEATRIZ",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13486606",
+    "instalacao": {
+      "cnpjCpf": "52577707000169",
+      "nomeInstalacao": "ENGEP ENGENHARIA E PAVIMENTACAO LTDA",
+      "codigoAgenteSIMP": "1211322",
+      "logradouro": "VIA LUIZ VARGA",
+      "numero": "1750",
+      "complemento": "",
+      "bairro": "GLEBA BEATRIZ",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13486606",
+      "licensa": {
+        "orgaoEmissor": "42004627",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "17/09/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "62368303",
+    "razaoSocialNome": "MORRO AZUL CONSTRUÇÕES E COMERCIO LTDA",
+    "codigoAgenteSIMP": "5062368303",
+    "dataAutorizacaoInstalacao": "09/12/2014",
+    "logradouro": "RUA PLACIDINA FERREIRA BRAGA",
+    "numero": "112",
+    "complemento": "",
+    "bairro": "PARQUE HIPOLYTO",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13486560",
+    "instalacao": {
+      "cnpjCpf": "62368303000119",
+      "nomeInstalacao": "MORRO AZUL CONSTRUÇÕES E COMERCIO LTDA",
+      "codigoAgenteSIMP": "1211323",
+      "logradouro": "VIA LUIZ VARGA",
+      "numero": "1750",
+      "complemento": "",
+      "bairro": "GLEBA BEATRIZ",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13486606",
+      "licensa": {
+        "orgaoEmissor": "42004627",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "17/09/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08722071",
+    "razaoSocialNome": "NEOPAV ENG.PAVIMENTAÇÃO E INFRAESTRUTURA LTDA",
+    "codigoAgenteSIMP": "5008722071",
+    "dataAutorizacaoInstalacao": "20/03/2014",
+    "logradouro": "Via Martin Lutero",
+    "numero": "s/n",
+    "complemento": "",
+    "bairro": "Bairro dos Pires",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13482200",
+    "instalacao": {
+      "cnpjCpf": "08722071000100",
+      "nomeInstalacao": "NEOPAV ENG.PAVIMENTAÇÃO E INFRAESTRUTURA LTDA",
+      "codigoAgenteSIMP": "1205163",
+      "logradouro": "Via Martin Lutero",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "Bairro dos Pires",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13482200",
+      "licensa": {
+        "orgaoEmissor": "42006015",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "29/09/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "11440904",
+    "razaoSocialNome": "NULU TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5011440904",
+    "dataAutorizacaoInstalacao": "23/04/2014",
+    "logradouro": "RUA   ANTONIO ALVES DE OLIVEIRA",
+    "numero": "25",
+    "complemento": "Bloco C Apto 01",
+    "bairro": "JARDIM PRESIDENTE DUTRA",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13486576",
+    "instalacao": {
+      "cnpjCpf": "11440904000154",
+      "nomeInstalacao": "NULU TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1205818",
+      "logradouro": "RUA   AFONSO VITALI",
+      "numero": "60",
+      "complemento": "Fundos",
+      "bairro": "VILA SAO LUIZ",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13480374",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 8
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 7
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "08743495",
+    "razaoSocialNome": "romarello terraplenagem e construções ltda",
+    "codigoAgenteSIMP": "5008743495",
+    "dataAutorizacaoInstalacao": "17/12/2014",
+    "logradouro": "RUA JORNALISTA  ARCHIMIO DE BARROS",
+    "numero": "396",
+    "complemento": "",
+    "bairro": "JARDIM PRESIDENTE DUTRA",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13486593",
+    "instalacao": {
+      "cnpjCpf": "08743495000150",
+      "nomeInstalacao": "Romarello Terraplenagem e Construções Ltda",
+      "codigoAgenteSIMP": "1211597",
+      "logradouro": "RUA JORNALISTA  ARCHIMIO DE BARROS",
+      "numero": "396",
+      "complemento": "",
+      "bairro": "JARDIM PRESIDENTE DUTRA",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13486593",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02870876",
+    "razaoSocialNome": "Samuca Transportes Ltda",
+    "codigoAgenteSIMP": "5002870876",
+    "dataAutorizacaoInstalacao": "12/03/2014",
+    "logradouro": "Rodovia Limeira Artur Nogueira",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "KM 01 Green Ville",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13480970",
+    "instalacao": {
+      "cnpjCpf": "02870876000114",
+      "nomeInstalacao": "Samuca Transportes Ltda",
+      "codigoAgenteSIMP": "1204863",
+      "logradouro": "Rodovia Limeira Artur Nogueira",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "KM 01 Green Ville",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13480970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "14347993",
+    "razaoSocialNome": "TRANSPAROLI TRANSPORTES LTDA ME",
+    "codigoAgenteSIMP": "5014347993",
+    "dataAutorizacaoInstalacao": "16/05/2014",
+    "logradouro": "RUA   INACIO FRANCO ALVES",
+    "numero": "721",
+    "complemento": "",
+    "bairro": "PARQUE CIDADE NOVA",
+    "municipio": "MOGI GUACU",
+    "uf": "SP",
+    "cep": "13845420",
+    "instalacao": {
+      "cnpjCpf": "14347993000187",
+      "nomeInstalacao": "TRANSPAROLI TRANSPORTES LTDA ME",
+      "codigoAgenteSIMP": "1206146",
+      "logradouro": "Rodovia Limeira/Piracicaba Km 5",
+      "numero": "s/n",
+      "complemento": "Village",
+      "bairro": "Bairro Graminha",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13480970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "13619863",
+    "razaoSocialNome": "TRANSPORTES BRUNATO LTDA",
+    "codigoAgenteSIMP": "5013619863",
+    "dataAutorizacaoInstalacao": "04/02/2014",
+    "logradouro": "Estrada Municipal Limeira 335",
+    "numero": "s/n",
+    "complemento": "Chácara Santa Helena",
+    "bairro": "Jardim de Chácara Santa Helena",
+    "municipio": "LIMEIRA",
+    "uf": "SP",
+    "cep": "13486000",
+    "instalacao": {
+      "cnpjCpf": "13619863000193",
+      "nomeInstalacao": "TRANSPORTES BRUNATO LTDA",
+      "codigoAgenteSIMP": "1204046",
+      "logradouro": "Estrada Municipal Limeira 335",
+      "numero": "s/n",
+      "complemento": "Chácara Santa Helena",
+      "bairro": "Jardim de Chácara Santa Helena",
+      "municipio": "LIMEIRA",
+      "uf": "SP",
+      "cep": "13486000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "72812852",
+    "razaoSocialNome": "ATLANTC STAR TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5072812852",
+    "dataAutorizacaoInstalacao": "04/07/2014",
+    "logradouro": "RUA ATILIO BUSCUOLA",
+    "numero": "2571",
+    "complemento": "",
+    "bairro": "JARDIM SANTO ANTONIO",
+    "municipio": "LOUVEIRA",
+    "uf": "SP",
+    "cep": "13290000",
+    "instalacao": {
+      "cnpjCpf": "72812852000194",
+      "nomeInstalacao": "ATLANTC STAR TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1207348",
+      "logradouro": "RUA ATILIO BUSCUOLA",
+      "numero": "2571",
+      "complemento": "",
+      "bairro": "JARDIM SANTO ANTONIO",
+      "municipio": "LOUVEIRA",
+      "uf": "SP",
+      "cep": "13290000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "71895023",
+    "razaoSocialNome": "Cooperativa de Transp de Cargas Quim Corr Maua",
+    "codigoAgenteSIMP": "5071895023",
+    "dataAutorizacaoInstalacao": "26/08/2014",
+    "logradouro": "Rua Ruzzi",
+    "numero": "655",
+    "complemento": "",
+    "bairro": "Sertaozinho",
+    "municipio": "MAUA",
+    "uf": "SP",
+    "cep": "09370850",
+    "instalacao": {
+      "cnpjCpf": "71895023000150",
+      "nomeInstalacao": "Cooperativa de Transp de Cargas Quim Corr Maua",
+      "codigoAgenteSIMP": "1208712",
+      "logradouro": "Rua Ruzzi",
+      "numero": "655",
+      "complemento": "",
+      "bairro": "Sertaozinho",
+      "municipio": "MAUA",
+      "uf": "SP",
+      "cep": "09370850",
+      "licensa": {
+        "orgaoEmissor": "16009694",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "24/11/2021"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 25
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "50138627",
+    "razaoSocialNome": "Sanurban Saneamento Urbano e Construções Ltda.",
+    "codigoAgenteSIMP": "5050138627",
+    "dataAutorizacaoInstalacao": "29/04/2014",
+    "logradouro": "ESTRADA   GUARACIABA",
+    "numero": "340",
+    "complemento": "",
+    "bairro": "VILA CARLINA",
+    "municipio": "MAUA",
+    "uf": "SP",
+    "cep": "09370840",
+    "instalacao": {
+      "cnpjCpf": "50138627000181",
+      "nomeInstalacao": "Sanurban Saneamento Urbano e Construções Ltda.",
+      "codigoAgenteSIMP": "1205834",
+      "logradouro": "ESTRADA   GUARACIABA",
+      "numero": "340",
+      "complemento": "",
+      "bairro": "VILA CARLINA",
+      "municipio": "MAUA",
+      "uf": "SP",
+      "cep": "09370840",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "52406329",
+    "razaoSocialNome": "TRANSPORTADORA TURISTICA SUZANO LTDA.",
+    "codigoAgenteSIMP": "5052406329",
+    "dataAutorizacaoInstalacao": "13/06/2014",
+    "logradouro": "RUA   MERCEDES GARCIA",
+    "numero": "05",
+    "complemento": "",
+    "bairro": "VILA MARIA DE MAGGI",
+    "municipio": "SUZANO",
+    "uf": "SP",
+    "cep": "08680050",
+    "instalacao": {
+      "cnpjCpf": "52406329000401",
+      "nomeInstalacao": "TRANSPORTADORA TURISTICA SUZANO LTDA.",
+      "codigoAgenteSIMP": "1207029",
+      "logradouro": "AVENIDA   EUGENIO NEGRI",
+      "numero": "534",
+      "complemento": "",
+      "bairro": "JARDIM ZAIRA",
+      "municipio": "MAUA",
+      "uf": "SP",
+      "cep": "09321190",
+      "licensa": {
+        "orgaoEmissor": "160019613",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "16/11/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 40
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "10667654",
+    "razaoSocialNome": "TRANSTODOGAZ - LOCAÇÃO E TRANSPORTE LTDA",
+    "codigoAgenteSIMP": "5010667654",
+    "dataAutorizacaoInstalacao": "20/08/2014",
+    "logradouro": "Avenida   Demétrio Ribeiro",
+    "numero": "sn",
+    "complemento": "",
+    "bairro": "Chácaras Rio-Petrópolis",
+    "municipio": "DUQUE DE CAXIAS",
+    "uf": "RJ",
+    "cep": "25230020",
+    "instalacao": {
+      "cnpjCpf": "10667654000470",
+      "nomeInstalacao": "TRANSTODOGAZ - LOCAÇÃO E TRANSPORTE LTDA",
+      "codigoAgenteSIMP": "1208601",
+      "logradouro": "AVENIDA PAPA  JOAO XXIII",
+      "numero": "2880-A",
+      "complemento": "",
+      "bairro": "VILA NOEMIA",
+      "municipio": "MAUA",
+      "uf": "SP",
+      "cep": "09370800",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "53965950",
+    "razaoSocialNome": "CARLOS SILVA & LIMA SILVA LTDA - ME",
+    "codigoAgenteSIMP": "5053965950",
+    "dataAutorizacaoInstalacao": "08/12/2014",
+    "logradouro": "Jacinto Felizardo Barbosa",
+    "numero": "1365",
+    "complemento": "sl 2",
+    "bairro": "Centro",
+    "municipio": "MIGUELOPOLIS",
+    "uf": "SP",
+    "cep": "14530000",
+    "instalacao": {
+      "cnpjCpf": "53965950000117",
+      "nomeInstalacao": "CARLOS SILVA & LIMA SILVA LTDA - ME",
+      "codigoAgenteSIMP": "1211315",
+      "logradouro": "ESTRADA PARA SANTA CRUZ S/N° KM 17",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "Zona Rural",
+      "municipio": "MIGUELOPOLIS",
+      "uf": "SP",
+      "cep": "14530000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "61046462",
+    "razaoSocialNome": "Citricola Quartieri",
+    "codigoAgenteSIMP": "5061046462",
+    "dataAutorizacaoInstalacao": "11/12/2014",
+    "logradouro": "AVENIDA EXPEDITO QUARTIERI",
+    "numero": "1667",
+    "complemento": "Terreio",
+    "bairro": "MIRANTE",
+    "municipio": "MOGI MIRIM",
+    "uf": "SP",
+    "cep": "13801156",
+    "instalacao": {
+      "cnpjCpf": "61046462000487",
+      "nomeInstalacao": "Citricola Quartieri",
+      "codigoAgenteSIMP": "1211444",
+      "logradouro": "AVENIDA EXPEDITO QUARTIERI",
+      "numero": "1667",
+      "complemento": "Terreio",
+      "bairro": "MIRANTE",
+      "municipio": "MOGI MIRIM",
+      "uf": "SP",
+      "cep": "13801156",
+      "licensa": {
+        "orgaoEmissor": "Licença",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "04/05/2022"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 20
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "60701190",
+    "razaoSocialNome": "ITAU UNIBANCO S/A",
+    "codigoAgenteSIMP": "5060701190",
+    "dataAutorizacaoInstalacao": "29/01/2014",
+    "logradouro": "PRACA ALFREDO EGYDIO DE SOUZA ARANHA",
+    "numero": "100",
+    "complemento": "TORRE OLAVO SETUBAL",
+    "bairro": "PARQUE JABAQUARA",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "04344902",
+    "instalacao": {
+      "cnpjCpf": "60701190000104",
+      "nomeInstalacao": "ITAU UNIBANCO S/A",
+      "codigoAgenteSIMP": "1187578",
+      "logradouro": "Av. Romario Schincariol",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "Distrito Industrial II",
+      "municipio": "MOGI MIRIM",
+      "uf": "SP",
+      "cep": "13803584",
+      "licensa": {
+        "orgaoEmissor": "65100079",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "29/01/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "4",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "5",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "6",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "7",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "8",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "9",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "10",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45332095",
+    "razaoSocialNome": "Prefeitura Municipal de Mogi Mirim",
+    "codigoAgenteSIMP": "5045332095",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Rua Cientista Albert Sabim",
+    "numero": "80",
+    "complemento": "",
+    "bairro": "NOVA MOGI",
+    "municipio": "MOGI MIRIM",
+    "uf": "SP",
+    "cep": "13801480",
+    "instalacao": {
+      "cnpjCpf": "45332095000189",
+      "nomeInstalacao": "Prefeitura Municipal de Mogi Mirim",
+      "codigoAgenteSIMP": "1209800",
+      "logradouro": "Rua Cientista Albert Sabim",
+      "numero": "80",
+      "complemento": "",
+      "bairro": "NOVA MOGI",
+      "municipio": "MOGI MIRIM",
+      "uf": "SP",
+      "cep": "13801480",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "16823519",
+    "razaoSocialNome": "Transagro NH Ltda",
+    "codigoAgenteSIMP": "5016823519",
+    "dataAutorizacaoInstalacao": "20/05/2014",
+    "logradouro": "Fazenda Balança",
+    "numero": "S/N",
+    "complemento": "N.H a Usina Estiva KM 1",
+    "bairro": "Estiva",
+    "municipio": "NOVO HORIZONTE",
+    "uf": "SP",
+    "cep": "14960000",
+    "instalacao": {
+      "cnpjCpf": "16823519000100",
+      "nomeInstalacao": "Transagro NH Ltda",
+      "codigoAgenteSIMP": "1206161",
+      "logradouro": "Fazenda Balança",
+      "numero": "S/N",
+      "complemento": "N.H a Usina Estiva KM 1",
+      "bairro": "Estiva",
+      "municipio": "NOVO HORIZONTE",
+      "uf": "SP",
+      "cep": "14960000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "04248044",
+    "razaoSocialNome": "ONDA VERDE AGROCOMERCIAL S/A",
+    "codigoAgenteSIMP": "9004248044",
+    "dataAutorizacaoInstalacao": "16/01/2014",
+    "logradouro": "EDVAL LEMOS",
+    "numero": "S/N",
+    "complemento": "KM 15",
+    "bairro": "TAPERAGUA",
+    "municipio": "MARECHAL DEODORO",
+    "uf": "AL",
+    "cep": "57160000",
+    "instalacao": {
+      "cnpjCpf": "04248044000277",
+      "nomeInstalacao": "ONDA VERDE AGROCOMERCIAL S.A.",
+      "codigoAgenteSIMP": "1044582",
+      "logradouro": "ESTANCIA VALE DO RIO TURVO",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "ZONA RURAL",
+      "municipio": "ONDA VERDE",
+      "uf": "SP",
+      "cep": "15450000",
+      "licensa": {
+        "orgaoEmissor": "14005908",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "27/12/2018"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 60
+        },
+        {
+          "nome": "4",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "43275874",
+    "razaoSocialNome": "COMERCIO DE APARAS DE PAPEL ADRIANA  LTDA",
+    "codigoAgenteSIMP": "5043275874",
+    "dataAutorizacaoInstalacao": "09/09/2014",
+    "logradouro": "AVENIDA DOUTOR  MAURO LINDEMBERG MONTEIRO",
+    "numero": "533",
+    "complemento": "A",
+    "bairro": "SANTA FE",
+    "municipio": "OSASCO",
+    "uf": "SP",
+    "cep": "06278010",
+    "instalacao": {
+      "cnpjCpf": "43275874000245",
+      "nomeInstalacao": "COMERCIO DE APARAS DE PAPEL ADRIANA  LTDA",
+      "codigoAgenteSIMP": "1208990",
+      "logradouro": "AVENIDA DOUTOR  MAURO LINDEMBERG MONTEIRO",
+      "numero": "533",
+      "complemento": "A",
+      "bairro": "SANTA FE",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "cep": "06278010",
+      "licensa": {
+        "orgaoEmissor": "32003224",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "25/07/2016"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 60
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "18343693",
+    "razaoSocialNome": "Distribuidora De Hortifruti Fazendas Finencio Ltda",
+    "codigoAgenteSIMP": "5018343693",
+    "dataAutorizacaoInstalacao": "01/09/2014",
+    "logradouro": "RUA   JOSE FERREIRA DA SILVA",
+    "numero": "119",
+    "complemento": "",
+    "bairro": "AYROSA",
+    "municipio": "OSASCO",
+    "uf": "SP",
+    "cep": "06293100",
+    "instalacao": {
+      "cnpjCpf": "18343693000180",
+      "nomeInstalacao": "Distribuidora De Hortifruti Fazendas Finencio Ltda",
+      "codigoAgenteSIMP": "1208797",
+      "logradouro": "RUA   JOSE FERREIRA DA SILVA",
+      "numero": "119",
+      "complemento": "",
+      "bairro": "AYROSA",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "cep": "06293100",
+      "licensa": {
+        "orgaoEmissor": "114231",
+        "numeroProtocolo": "CREA",
+        "dataValidadeLicenca": "01/09/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "56139041",
+    "razaoSocialNome": "URUBUPUNGÁ TRANSPORTES E TURISMO LTDA",
+    "codigoAgenteSIMP": "5056139041",
+    "dataAutorizacaoInstalacao": "30/09/2014",
+    "logradouro": "AVENIDA DOMINGOS DE SOUZA MARQUES",
+    "numero": "546",
+    "complemento": "",
+    "bairro": "VILA JAGUARA",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "05113020",
+    "instalacao": {
+      "cnpjCpf": "56139041000460",
+      "nomeInstalacao": "URUBUPUNGÁ TRANSPORTES E TURISMO LTDA",
+      "codigoAgenteSIMP": "1209446",
+      "logradouro": "AVENIDA PRESIDENTEMEDICI",
+      "numero": "1597",
+      "complemento": "sala 1",
+      "bairro": "ALIANCA",
+      "municipio": "OSASCO",
+      "uf": "SP",
+      "cep": "06268000",
+      "licensa": {
+        "orgaoEmissor": "32005918",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "22/08/2016"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 20
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "52132271",
+    "razaoSocialNome": "TRANSPORTADORA MARQUESIM LTDA",
+    "codigoAgenteSIMP": "5052132271",
+    "dataAutorizacaoInstalacao": "10/06/2014",
+    "logradouro": "Estrada Pardinho - Angatuba",
+    "numero": "s/n",
+    "complemento": "Km 19",
+    "bairro": "Zona Rural",
+    "municipio": "PARDINHO",
+    "uf": "SP",
+    "cep": "18640000",
+    "instalacao": {
+      "cnpjCpf": "52132271000102",
+      "nomeInstalacao": "TRANSPORTADORA MARQUESIM LTDA",
+      "codigoAgenteSIMP": "1206945",
+      "logradouro": "Estrada Pardinho - Angatuba",
+      "numero": "s/n",
+      "complemento": "Km 19",
+      "bairro": "Zona Rural",
+      "municipio": "PARDINHO",
+      "uf": "SP",
+      "cep": "18640000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "67956730",
+    "razaoSocialNome": "A M T TRANSPORTE E LOGISTICA LTDA",
+    "codigoAgenteSIMP": "5067956730",
+    "dataAutorizacaoInstalacao": "30/01/2014",
+    "logradouro": "RUA   SALVADOR PIORINO",
+    "numero": "125",
+    "complemento": "",
+    "bairro": "JARDIM CARLOTA",
+    "municipio": "PINDAMONHANGABA",
+    "uf": "SP",
+    "cep": "12443090",
+    "instalacao": {
+      "cnpjCpf": "67956730000131",
+      "nomeInstalacao": "A M T TRANSPORTE E LOGISTICA LTDA",
+      "codigoAgenteSIMP": "1203668",
+      "logradouro": "RUA   SALVADOR PIORINO",
+      "numero": "125",
+      "complemento": "",
+      "bairro": "JARDIM CARLOTA",
+      "municipio": "PINDAMONHANGABA",
+      "uf": "SP",
+      "cep": "12443090",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - ADITIVADO",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "67904961",
+    "razaoSocialNome": "Armando Celso Gouvea Freitas ME",
+    "codigoAgenteSIMP": "5067904961",
+    "dataAutorizacaoInstalacao": "18/08/2014",
+    "logradouro": "Av. das Palmeiras",
+    "numero": "90",
+    "complemento": "",
+    "bairro": "Goiabal",
+    "municipio": "PINDAMONHANGABA",
+    "uf": "SP",
+    "cep": "12400000",
+    "instalacao": {
+      "cnpjCpf": "67904961000100",
+      "nomeInstalacao": "Armando Celso Gouvea Freitas ME",
+      "codigoAgenteSIMP": "1208509",
+      "logradouro": "Av. das Palmeiras",
+      "numero": "90",
+      "complemento": "",
+      "bairro": "Goiabal",
+      "municipio": "PINDAMONHANGABA",
+      "uf": "SP",
+      "cep": "12400000",
+      "licensa": {
+        "orgaoEmissor": "101635",
+        "numeroProtocolo": "CBSP",
+        "dataValidadeLicenca": "11/07/2017"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 8
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 3
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "67280008",
+    "razaoSocialNome": "Auricchio Barros Extração e Com. de Areia e Pedra",
+    "codigoAgenteSIMP": "5067280008",
+    "dataAutorizacaoInstalacao": "24/09/2014",
+    "logradouro": "Estrada Municipal João Marcondes dos Santos",
+    "numero": "s/n",
+    "complemento": "",
+    "bairro": "BREJÃO",
+    "municipio": "PINDAMONHANGABA",
+    "uf": "SP",
+    "cep": "12425190",
+    "instalacao": {
+      "cnpjCpf": "67280008000120",
+      "nomeInstalacao": "Auricchio Barros Extração e Com. de Areia e Pedra",
+      "codigoAgenteSIMP": "1209327",
+      "logradouro": "Estrada Municipal João Marcondes dos Santos",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "BREJÃO",
+      "municipio": "PINDAMONHANGABA",
+      "uf": "SP",
+      "cep": "12425190",
+      "licensa": {
+        "orgaoEmissor": "3004262",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "11/04/2015"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "05251648",
+    "razaoSocialNome": "MACROPO TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5005251648",
+    "dataAutorizacaoInstalacao": "02/09/2014",
+    "logradouro": "INDEPENDENCIA",
+    "numero": "4110",
+    "complemento": "",
+    "bairro": "JARDIM SANTA LUZIA",
+    "municipio": "PINDAMONHANGABA",
+    "uf": "SP",
+    "cep": "12411010",
+    "instalacao": {
+      "cnpjCpf": "05251648000405",
+      "nomeInstalacao": "MACROPO TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1208800",
+      "logradouro": "INDEPENDENCIA",
+      "numero": "4110",
+      "complemento": "",
+      "bairro": "JARDIM SANTA LUZIA",
+      "municipio": "PINDAMONHANGABA",
+      "uf": "SP",
+      "cep": "12411010",
+      "licensa": {
+        "orgaoEmissor": "ISENTO",
+        "numeroProtocolo": "CONAMA",
+        "dataValidadeLicenca": "23/11/2018"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "06280607",
+    "razaoSocialNome": "Múltipla Mineração Pindamonhangaba Ltda",
+    "codigoAgenteSIMP": "5006280607",
+    "dataAutorizacaoInstalacao": "05/11/2014",
+    "logradouro": "AVENIDA   THEODORICO CAVALCANTE DE SOUZA",
+    "numero": "645",
+    "complemento": "",
+    "bairro": "JARDIM BOA VISTA",
+    "municipio": "PINDAMONHANGABA",
+    "uf": "SP",
+    "cep": "12401120",
+    "instalacao": {
+      "cnpjCpf": "06280607000159",
+      "nomeInstalacao": "Mútipla Mineração Pindamonhangaba Ltda",
+      "codigoAgenteSIMP": "1210305",
+      "logradouro": "AVENIDA   THEODORICO CAVALCANTE DE SOUZA",
+      "numero": "645",
+      "complemento": "loteamento Beira Rio",
+      "bairro": "JARDIM BOA VISTA",
+      "municipio": "PINDAMONHANGABA",
+      "uf": "SP",
+      "cep": "12401120",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "11269748",
+    "razaoSocialNome": "ANTONIO DORIVAL SCHIAVINATTO EPP",
+    "codigoAgenteSIMP": "5011269748",
+    "dataAutorizacaoInstalacao": "17/04/2014",
+    "logradouro": "RUA ROSARIO TAKAKI",
+    "numero": "363",
+    "complemento": "",
+    "bairro": "DIST. INDUSTRIAL UNINORTE",
+    "municipio": "PIRACICABA",
+    "uf": "SP",
+    "cep": "13413063",
+    "instalacao": {
+      "cnpjCpf": "11269748000100",
+      "nomeInstalacao": "ANTONIO DORIVAL SCHIAVINATTO EPP",
+      "codigoAgenteSIMP": "1205731",
+      "logradouro": "RUA ROSARIO TAKAKI",
+      "numero": "363",
+      "complemento": "",
+      "bairro": "DIST. INDUSTRIAL UNINORTE",
+      "municipio": "PIRACICABA",
+      "uf": "SP",
+      "cep": "13413063",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02701989",
+    "razaoSocialNome": "CASTELINHO TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5002701989",
+    "dataAutorizacaoInstalacao": "18/06/2014",
+    "logradouro": "RODOVIA CORNELIO PIRES",
+    "numero": "KM 44",
+    "complemento": "CAIXA POSTAL 422 - CEP 13400-970",
+    "bairro": "CAMPESTRE",
+    "municipio": "PIRACICABA",
+    "uf": "SP",
+    "cep": "13401620",
+    "instalacao": {
+      "cnpjCpf": "02701989000196",
+      "nomeInstalacao": "CASTELINHO TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1207047",
+      "logradouro": "RODOVIA CORNELIO PIRES",
+      "numero": "KM 44",
+      "complemento": "CAIXA POSTAL 422 - CEP 13400-970",
+      "bairro": "CAMPESTRE",
+      "municipio": "PIRACICABA",
+      "uf": "SP",
+      "cep": "13401620",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "05642909",
+    "razaoSocialNome": "EXPRESSO FRATERNO LTDA. EPP",
+    "codigoAgenteSIMP": "5005642909",
+    "dataAutorizacaoInstalacao": "08/12/2014",
+    "logradouro": "RUA DOUTOR  DIMAS CERA OMETTO",
+    "numero": "1886",
+    "complemento": "",
+    "bairro": "TANQUINHO (GUAMIUM)",
+    "municipio": "PIRACICABA",
+    "uf": "SP",
+    "cep": "13433002",
+    "instalacao": {
+      "cnpjCpf": "05642909000167",
+      "nomeInstalacao": "EXPRESSO FRATERNO LTDA. EPP",
+      "codigoAgenteSIMP": "1211303",
+      "logradouro": "RUA DOUTOR  DIMAS CERA OMETTO",
+      "numero": "1886",
+      "complemento": "",
+      "bairro": "TANQUINHO (GUAMIUM)",
+      "municipio": "PIRACICABA",
+      "uf": "SP",
+      "cep": "13433002",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "15664292",
+    "razaoSocialNome": "PIRACICABA AMBIENTAL S.A.",
+    "codigoAgenteSIMP": "5015664292",
+    "dataAutorizacaoInstalacao": "04/12/2014",
+    "logradouro": "RODOVIA   MARGARIDA DA GRACA MARTINS",
+    "numero": "s/n",
+    "complemento": "KM18",
+    "bairro": "AGUA SECA",
+    "municipio": "PIRACICABA",
+    "uf": "SP",
+    "cep": "13420280",
+    "instalacao": {
+      "cnpjCpf": "15664292000134",
+      "nomeInstalacao": "PIRACICABA AMBIENTAL S.A.",
+      "codigoAgenteSIMP": "1211190",
+      "logradouro": "Rod. Deputado Laércio Corte, SP-147",
+      "numero": "s/n",
+      "complemento": "KM13 / ECOPARQUE",
+      "bairro": "SITIO PALMEIRAS",
+      "municipio": "PIRACICABA",
+      "uf": "SP",
+      "cep": "13401395",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 14
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "47718572",
+    "razaoSocialNome": "TRANSPORTADORA PIZZOLITO LTDA",
+    "codigoAgenteSIMP": "5047718572",
+    "dataAutorizacaoInstalacao": "08/12/2014",
+    "logradouro": "RUA DOUTOR  DIMAS CERA OMETTO",
+    "numero": "1886",
+    "complemento": "",
+    "bairro": "TANQUINHO (GUAMIUM)",
+    "municipio": "PIRACICABA",
+    "uf": "SP",
+    "cep": "13433002",
+    "instalacao": {
+      "cnpjCpf": "47718572000174",
+      "nomeInstalacao": "TRANSPORTADORA PIZZOLITO LTDA",
+      "codigoAgenteSIMP": "1211305",
+      "logradouro": "RUA DOUTOR  DIMAS CERA OMETTO",
+      "numero": "1886",
+      "complemento": "",
+      "bairro": "TANQUINHO (GUAMIUM)",
+      "municipio": "PIRACICABA",
+      "uf": "SP",
+      "cep": "13433002",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02270984",
+    "razaoSocialNome": "ANC TRANSPORTES TURISTICOS LTDA.",
+    "codigoAgenteSIMP": "5002270984",
+    "dataAutorizacaoInstalacao": "27/03/2014",
+    "logradouro": "ESTRADA MUNICIPAL DA CANTAREIRA SALA A",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "SITIO SANTA ELISA",
+    "municipio": "PIRASSUNUNGA",
+    "uf": "SP",
+    "cep": "13630970",
+    "instalacao": {
+      "cnpjCpf": "02270984000156",
+      "nomeInstalacao": "ANC TRANSPORTES TURISTICOS LTDA.",
+      "codigoAgenteSIMP": "1205226",
+      "logradouro": "ESTRADA MUNICIPAL DA CANTAREIRA SALA A",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "SITIO SANTA ELISA",
+      "municipio": "PIRASSUNUNGA",
+      "uf": "SP",
+      "cep": "13630970",
+      "licensa": {
+        "orgaoEmissor": "ISENTO",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "24/03/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "49595523",
+    "razaoSocialNome": "Transportadora Pavani Ltda",
+    "codigoAgenteSIMP": "5049595523",
+    "dataAutorizacaoInstalacao": "26/08/2014",
+    "logradouro": "AVENIDA PADRE ANTONIO VANN ESS",
+    "numero": "2238",
+    "complemento": "",
+    "bairro": "ROSARIO",
+    "municipio": "PIRASSUNUNGA",
+    "uf": "SP",
+    "cep": "13634000",
+    "instalacao": {
+      "cnpjCpf": "49595523000117",
+      "nomeInstalacao": "Transportadora Pavani Ltda",
+      "codigoAgenteSIMP": "1208699",
+      "logradouro": "AVENIDA PADRE ANTONIO VANN ESS",
+      "numero": "2238",
+      "complemento": "",
+      "bairro": "ROSARIO",
+      "municipio": "PIRASSUNUNGA",
+      "uf": "SP",
+      "cep": "13634000",
+      "licensa": {
+        "orgaoEmissor": "91060953",
+        "numeroProtocolo": "CETESB",
+        "dataEmissaoProtocolo": "20/08/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 20
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "53805594",
+    "razaoSocialNome": "VIAÇÃO PIRASSUNUNGA LTDA.",
+    "codigoAgenteSIMP": "5053805594",
+    "dataAutorizacaoInstalacao": "27/03/2014",
+    "logradouro": "ESTRADA MUNICIPAL DA CANTAREIRA",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "SITIO SANTA ELISA",
+    "municipio": "PIRASSUNUNGA",
+    "uf": "SP",
+    "cep": "13630970",
+    "instalacao": {
+      "cnpjCpf": "53805594000174",
+      "nomeInstalacao": "VIAÇÃO PIRASSUNUNGA LTDA.",
+      "codigoAgenteSIMP": "1205225",
+      "logradouro": "ESTRADA MUNICIPAL DA CANTAREIRA",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "SITIO SANTA ELISA",
+      "municipio": "PIRASSUNUNGA",
+      "uf": "SP",
+      "cep": "13630970",
+      "licensa": {
+        "orgaoEmissor": "ISENTO",
+        "numeroProtocolo": "CETESB",
+        "dataEmissaoProtocolo": "23/03/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "51837284",
+    "razaoSocialNome": "AGRO PECUÁRIA CFM LTDA",
+    "codigoAgenteSIMP": "5051837284",
+    "dataAutorizacaoInstalacao": "04/06/2014",
+    "logradouro": "AVENIDA   FELICIANO SALES CUNHA",
+    "numero": "1332",
+    "complemento": "CASA",
+    "bairro": "JARDIM NOVO AEROPORTO",
+    "municipio": "SAO JOSE DO RIO PRETO",
+    "uf": "SP",
+    "cep": "15035000",
+    "instalacao": {
+      "cnpjCpf": "51837284000963",
+      "nomeInstalacao": "AGRO PECUÁRIA CFM LTDA",
+      "codigoAgenteSIMP": "1206688",
+      "logradouro": "Fazenda Guariroba",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "zona rural",
+      "municipio": "PONTES GESTAL",
+      "uf": "SP",
+      "cep": "15310000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "10403877",
+    "razaoSocialNome": "MAGICFLEX INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+    "codigoAgenteSIMP": "5010403877",
+    "dataAutorizacaoInstalacao": "30/09/2014",
+    "logradouro": "Rodovia Anhanguera km 225",
+    "numero": "2320",
+    "complemento": "",
+    "bairro": "Areia Branca",
+    "municipio": "PORTO FERREIRA",
+    "uf": "SP",
+    "cep": "13660971",
+    "instalacao": {
+      "cnpjCpf": "10403877000187",
+      "nomeInstalacao": "MAGICFLEX INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "codigoAgenteSIMP": "1209443",
+      "logradouro": "Rua Mathias Cardoso",
+      "numero": "735",
+      "complemento": "",
+      "bairro": "Centro",
+      "municipio": "PORTO FERREIRA",
+      "uf": "SP",
+      "cep": "13660000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "56220791",
+    "razaoSocialNome": "JOMANE PORTO DE AREIA LTDA",
+    "codigoAgenteSIMP": "5056220791",
+    "dataAutorizacaoInstalacao": "25/02/2014",
+    "logradouro": "VIA JULIANO FERRAZ LIMA",
+    "numero": "4562",
+    "complemento": "",
+    "bairro": "ZONA RURAL",
+    "municipio": "PRESIDENTE EPITACIO",
+    "uf": "SP",
+    "cep": "19470000",
+    "instalacao": {
+      "cnpjCpf": "56220791000110",
+      "nomeInstalacao": "JOMANE PORTO DE AREIA LTDA",
+      "codigoAgenteSIMP": "1204626",
+      "logradouro": "VIA JULIANO FERRAZ LIMA",
+      "numero": "4562",
+      "complemento": "",
+      "bairro": "ZONA RURAL",
+      "municipio": "PRESIDENTE EPITACIO",
+      "uf": "SP",
+      "cep": "19470000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "53389953",
+    "razaoSocialNome": "PORTO DE AREIA RIBEIRO FILHO LTDA",
+    "codigoAgenteSIMP": "5053389953",
+    "dataAutorizacaoInstalacao": "05/11/2014",
+    "logradouro": "AVENIDA DOMINGOS FERREIRA DE MEDEIROS",
+    "numero": "KM 0,5",
+    "complemento": "",
+    "bairro": "DISTRITO INDUSTRIAL",
+    "municipio": "PRESIDENTE EPITACIO",
+    "uf": "SP",
+    "cep": "19470000",
+    "instalacao": {
+      "cnpjCpf": "53389953000150",
+      "nomeInstalacao": "PORTO DE AREIA RIBEIRO FILHO LTDA",
+      "codigoAgenteSIMP": "1210308",
+      "logradouro": "AVENIDA DOMINGOS FERREIRA DE MEDEIROS",
+      "numero": "KM 0,5",
+      "complemento": "",
+      "bairro": "DISTRITO INDUSTRIAL",
+      "municipio": "PRESIDENTE EPITACIO",
+      "uf": "SP",
+      "cep": "19470000",
+      "licensa": {
+        "orgaoEmissor": "12002649",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "17/06/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 10
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "44487999",
+    "razaoSocialNome": "SALIONE MINERACAO LTDA",
+    "codigoAgenteSIMP": "5044487999",
+    "dataAutorizacaoInstalacao": "19/09/2014",
+    "logradouro": "RODOVIA RAPOSO TAVARES",
+    "numero": "s/n",
+    "complemento": "km 457",
+    "bairro": "Água da Fortuna",
+    "municipio": "ASSIS",
+    "uf": "SP",
+    "cep": "19808010",
+    "instalacao": {
+      "cnpjCpf": "44487999000382",
+      "nomeInstalacao": "SALIONE MINERACAO LTDA",
+      "codigoAgenteSIMP": "1209201",
+      "logradouro": "AV JULIANO FERRAZ DE LIMA",
+      "numero": "52-60",
+      "complemento": "",
+      "bairro": "VILA INDUSTRIAL",
+      "municipio": "PRESIDENTE EPITACIO",
+      "uf": "SP",
+      "cep": "19470000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "47427257",
+    "razaoSocialNome": "DESTILARIA CÓRREGO AZUL LTDA",
+    "codigoAgenteSIMP": "9047427257",
+    "dataAutorizacaoInstalacao": "10/11/2014",
+    "logradouro": "ESTRADA MUNICIPAL PSS 050",
+    "numero": "S/N",
+    "complemento": "CXP 44",
+    "bairro": "CÓRREGO AZUL",
+    "municipio": "PROMISSAO",
+    "uf": "SP",
+    "cep": "16370000",
+    "instalacao": {
+      "cnpjCpf": "47427257000198",
+      "nomeInstalacao": "DESTILARIA CÓRREGO AZUL LTDA",
+      "codigoAgenteSIMP": "1043986",
+      "logradouro": "ESTRADA MUNICIPAL PSS 050",
+      "numero": "S/N",
+      "complemento": "CXP 44",
+      "bairro": "CÓRREGO AZUL",
+      "municipio": "PROMISSAO",
+      "uf": "SP",
+      "cep": "16370000",
+      "licensa": {
+        "orgaoEmissor": "13002318",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "05/11/2015"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "59598029",
+    "razaoSocialNome": "Engenharia e Comércio Bandeirantes Ltda.",
+    "codigoAgenteSIMP": "5059598029",
+    "dataAutorizacaoInstalacao": "24/04/2014",
+    "logradouro": "Rodovia SP-215, km 148,9",
+    "numero": "s/n",
+    "complemento": "CP 94",
+    "bairro": "Parque Industrial",
+    "municipio": "SAO CARLOS",
+    "uf": "SP",
+    "cep": "13573600",
+    "instalacao": {
+      "cnpjCpf": "59598029000593",
+      "nomeInstalacao": "Engenharia e Comércio Bandeirantes Ltda.",
+      "codigoAgenteSIMP": "1205821",
+      "logradouro": "Rod. Raposo Tavares (SP-270)",
+      "numero": "s/n",
+      "complemento": "km 553,5",
+      "bairro": "Distrito Industrial",
+      "municipio": "REGENTE FEIJO",
+      "uf": "SP",
+      "cep": "19570000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "09491435",
+    "razaoSocialNome": "RIBEIRA BEER DISTRIBUIDORA DE BEBIDAS LTDA.",
+    "codigoAgenteSIMP": "5009491435",
+    "dataAutorizacaoInstalacao": "26/08/2014",
+    "logradouro": "Av. Predisente Castelo Branco",
+    "numero": "1",
+    "complemento": "KM 447",
+    "bairro": "Campo da Experiencia",
+    "municipio": "REGISTRO",
+    "uf": "SP",
+    "cep": "11900000",
+    "instalacao": {
+      "cnpjCpf": "09491435000150",
+      "nomeInstalacao": "RIBEIRA BEER DISTRIBUIDORA DE BEBIDAS LTDA.",
+      "codigoAgenteSIMP": "1208702",
+      "logradouro": "Av. Predisente Castelo Branco",
+      "numero": "1",
+      "complemento": "KM 447",
+      "bairro": "Campo da Experiencia",
+      "municipio": "REGISTRO",
+      "uf": "SP",
+      "cep": "11900000",
+      "licensa": {
+        "orgaoEmissor": "0",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "13/02/2015"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 50
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "19691636",
+    "razaoSocialNome": "JOSÉ ODEMIR SPAGGIARI E OUTROS",
+    "codigoAgenteSIMP": "5019691636",
+    "dataAutorizacaoInstalacao": "18/06/2014",
+    "logradouro": "ESTRADA MUNICIPAL SLO 030, KM 1,5 ENTRADA A ESQUERDA",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "RURAL",
+    "municipio": "SALES OLIVEIRA",
+    "uf": "SP",
+    "cep": "14660000",
+    "instalacao": {
+      "cnpjCpf": "19691636000660",
+      "nomeInstalacao": "JOSÉ ODEMIR SPAGGIARI E OUTROS",
+      "codigoAgenteSIMP": "1207048",
+      "logradouro": "ESTRADA MUNICIPAL SLO 030, KM 1,5 ENTRADA A ESQUERDA",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "RURAL",
+      "municipio": "SALES OLIVEIRA",
+      "uf": "SP",
+      "cep": "14790000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "47931886",
+    "razaoSocialNome": "Comércio de Sucatas Narciso Ltda",
+    "codigoAgenteSIMP": "5047931886",
+    "dataAutorizacaoInstalacao": "19/11/2014",
+    "logradouro": "RUA PAPA  PIO XII",
+    "numero": "216",
+    "complemento": "",
+    "bairro": "DISTRITO INDUSTRIAL II",
+    "municipio": "SANTA BARBARA D'OESTE",
+    "uf": "SP",
+    "cep": "13457196",
+    "instalacao": {
+      "cnpjCpf": "47931886000150",
+      "nomeInstalacao": "Comércio de Sucatas Narciso Ltda",
+      "codigoAgenteSIMP": "1210828",
+      "logradouro": "RUA PAPA  PIO XII",
+      "numero": "216",
+      "complemento": "",
+      "bairro": "DISTRITO INDUSTRIAL II",
+      "municipio": "SANTA BARBARA D'OESTE",
+      "uf": "SP",
+      "cep": "13457196",
+      "licensa": {
+        "orgaoEmissor": "34006506",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "05/06/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "67043158",
+    "razaoSocialNome": "Pedreira Bonato Ltda",
+    "codigoAgenteSIMP": "5067043158",
+    "dataAutorizacaoInstalacao": "10/03/2014",
+    "logradouro": "ROD. SP 306 KM 26 + 300 METROS",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "FAZENDA JAMAICA",
+    "municipio": "SANTA BARBARA D'OESTE",
+    "uf": "SP",
+    "cep": "13450000",
+    "instalacao": {
+      "cnpjCpf": "67043158000110",
+      "nomeInstalacao": "Pedreira Bonato Ltda",
+      "codigoAgenteSIMP": "1204822",
+      "logradouro": "ROD. SP 306 KM 26 + 300 METROS",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "FAZENDA JAMAICA",
+      "municipio": "SANTA BARBARA D'OESTE",
+      "uf": "SP",
+      "cep": "13450000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "01302083",
+    "razaoSocialNome": "SERTRAN SERTÃOZINHO TRANSPORTES E SERVIÇOS LTDA",
+    "codigoAgenteSIMP": "5001302083",
+    "dataAutorizacaoInstalacao": "15/12/2014",
+    "logradouro": "RUA CORONELFRANCISCO SCHMIDT",
+    "numero": "71",
+    "complemento": "",
+    "bairro": "JARDIM GOLIVE",
+    "municipio": "SERTAOZINHO",
+    "uf": "SP",
+    "cep": "14170490",
+    "instalacao": {
+      "cnpjCpf": "01302083000560",
+      "nomeInstalacao": "SERTRAN SERTÃOZINHO TRANSPORTES E SERVIÇOS LTDA",
+      "codigoAgenteSIMP": "1211568",
+      "logradouro": "RUA VEREADOR  SERGIO LEOPOLDINO ALVES",
+      "numero": "787",
+      "complemento": "",
+      "bairro": "CIDADE INDUSTRIAL",
+      "municipio": "SANTA BARBARA D'OESTE",
+      "uf": "SP",
+      "cep": "13456166",
+      "licensa": {
+        "orgaoEmissor": "34/00761/13",
+        "numeroProtocolo": "CETESB",
+        "dataEmissaoProtocolo": "21/10/2013"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "56508732",
+    "razaoSocialNome": "JOSE ORLANDO PAVANI",
+    "codigoAgenteSIMP": "5056508732",
+    "dataAutorizacaoInstalacao": "08/04/2014",
+    "logradouro": "RUA ANGELO ZAMPAR",
+    "numero": "150",
+    "complemento": "",
+    "bairro": "SANTA CRUZ DAS PALMEIRAS",
+    "municipio": "SANTA CRUZ DAS PALMEIRAS",
+    "uf": "SP",
+    "cep": "13640000",
+    "instalacao": {
+      "cnpjCpf": "56508732000141",
+      "nomeInstalacao": "JOSE ORLANDO PAVANI",
+      "codigoAgenteSIMP": "1205590",
+      "logradouro": "RUA ANGELO ZAMPAR",
+      "numero": "150",
+      "complemento": "",
+      "bairro": "SANTA CRUZ DAS PALMEIRAS",
+      "municipio": "SANTA CRUZ DAS PALMEIRAS",
+      "uf": "SP",
+      "cep": "13640000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "01562885",
+    "razaoSocialNome": "mario catani",
+    "codigoAgenteSIMP": "5001562885",
+    "dataAutorizacaoInstalacao": "25/06/2014",
+    "logradouro": "RUA BEATRIZ",
+    "numero": "587",
+    "complemento": "",
+    "bairro": "JS LUCIA",
+    "municipio": "SANTA CRUZ DAS PALMEIRAS",
+    "uf": "SP",
+    "cep": "13650000",
+    "instalacao": {
+      "cnpjCpf": "01562885000185",
+      "nomeInstalacao": "mario catani",
+      "codigoAgenteSIMP": "1207178",
+      "logradouro": "RUA BEATRIZ",
+      "numero": "587",
+      "complemento": "",
+      "bairro": "JS LUCIA",
+      "municipio": "SANTA CRUZ DAS PALMEIRAS",
+      "uf": "SP",
+      "cep": "13650000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "02626795",
+    "razaoSocialNome": "TRANSZANOLLI LDTA",
+    "codigoAgenteSIMP": "5002626795",
+    "dataAutorizacaoInstalacao": "10/03/2014",
+    "logradouro": "RUA SAO SEBASTIAO",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "RURAL",
+    "municipio": "SANTA CRUZ DAS PALMEIRAS",
+    "uf": "SP",
+    "cep": "13650000",
+    "instalacao": {
+      "cnpjCpf": "02626795000173",
+      "nomeInstalacao": "TRANSZANOLLI LDTA",
+      "codigoAgenteSIMP": "1204825",
+      "logradouro": "RUA SAO SEBASTIAO",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "RURAL",
+      "municipio": "SANTA CRUZ DAS PALMEIRAS",
+      "uf": "SP",
+      "cep": "13650000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45749819",
+    "razaoSocialNome": "Prefeitura Municipal de Santa Rita do Passa Quatro",
+    "codigoAgenteSIMP": "5045749819",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Rua Cirilo Zanoto",
+    "numero": "0",
+    "complemento": "",
+    "bairro": "Bairro São Sebastião",
+    "municipio": "SANTA RITA DO PASSA QUATRO",
+    "uf": "SP",
+    "cep": "13670000",
+    "instalacao": {
+      "cnpjCpf": "45749819000194",
+      "nomeInstalacao": "Prefeitura Municipal de Santa Rita do Passa Quatro",
+      "codigoAgenteSIMP": "1209831",
+      "logradouro": "Rua Cirilo Zanoto",
+      "numero": "0",
+      "complemento": "",
+      "bairro": "Bairro São Sebastião",
+      "municipio": "SANTA RITA DO PASSA QUATRO",
+      "uf": "SP",
+      "cep": "13670000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "3",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 10
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "10673610",
+    "razaoSocialNome": "Bileca Transporte e Logistica LTDA",
+    "codigoAgenteSIMP": "5010673610",
+    "dataAutorizacaoInstalacao": "14/07/2014",
+    "logradouro": "BR 265",
+    "numero": "2100",
+    "complemento": "KM 147",
+    "bairro": "AEROPORTO",
+    "municipio": "LAVRAS",
+    "uf": "MG",
+    "cep": "37200000",
+    "instalacao": {
+      "cnpjCpf": "10673610000290",
+      "nomeInstalacao": "Bileca Transporte e Logistica LTDA",
+      "codigoAgenteSIMP": "1207565",
+      "logradouro": "RUA   GERTRUDES DE LIMA",
+      "numero": "238",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "municipio": "SANTO ANDRE",
+      "uf": "SP",
+      "cep": "09020000",
+      "licensa": {
+        "orgaoEmissor": "Autorização Ambienta",
+        "numeroProtocolo": "IBAMA",
+        "dataValidadeLicenca": "01/11/2019"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "19417181",
+    "razaoSocialNome": "JULITRANS TRANSPORTES E SERVIÇOS EIRELI ME",
+    "codigoAgenteSIMP": "5019417181",
+    "dataAutorizacaoInstalacao": "01/12/2014",
+    "logradouro": "RUA   ACARAPE",
+    "numero": "486",
+    "complemento": "",
+    "bairro": "JARDIM STELLA",
+    "municipio": "SANTO ANDRE",
+    "uf": "SP",
+    "cep": "09185490",
+    "instalacao": {
+      "cnpjCpf": "19417181000184",
+      "nomeInstalacao": "JULITRANS TRANSPORTES E SERVIÇOS EIRELI ME",
+      "codigoAgenteSIMP": "1210954",
+      "logradouro": "RUA   ACARAPE",
+      "numero": "486",
+      "complemento": "",
+      "bairro": "JARDIM STELLA",
+      "municipio": "SANTO ANDRE",
+      "uf": "SP",
+      "cep": "09185490",
+      "licensa": {
+        "orgaoEmissor": "ISENTO",
+        "numeroProtocolo": "SMA",
+        "dataValidadeLicenca": "12/08/2015"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 30
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "59598029",
+    "razaoSocialNome": "Engenharia e Comércio Bandeirantes Ltda.",
+    "codigoAgenteSIMP": "5059598029",
+    "dataAutorizacaoInstalacao": "24/04/2014",
+    "logradouro": "Rodovia SP-215, km 148,9",
+    "numero": "s/n",
+    "complemento": "CP 94",
+    "bairro": "Parque Industrial",
+    "municipio": "SAO CARLOS",
+    "uf": "SP",
+    "cep": "13573600",
+    "instalacao": {
+      "cnpjCpf": "59598029000402",
+      "nomeInstalacao": "Engenharia e Comércio Bandeirantes Ltda.",
+      "codigoAgenteSIMP": "1205820",
+      "logradouro": "Rodovia Guilherme Scatena",
+      "numero": "s/n",
+      "complemento": "km 15",
+      "bairro": "Bairro do 29",
+      "municipio": "SAO CARLOS",
+      "uf": "SP",
+      "cep": "13560970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46429379",
+    "razaoSocialNome": "Prefeitura Municipal de São João da Boa Vista",
+    "codigoAgenteSIMP": "5046429379",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Avenida Doutor Durval Nicolau",
+    "numero": "125",
+    "complemento": "",
+    "bairro": "Jardim Priscila",
+    "municipio": "SAO JOAO DA BOA VISTA",
+    "uf": "SP",
+    "cep": "13874234",
+    "instalacao": {
+      "cnpjCpf": "46429379000150",
+      "nomeInstalacao": "Prefeitura Municipal de São João da Boa Vista",
+      "codigoAgenteSIMP": "1209807",
+      "logradouro": "Avenida Doutor Durval Nicolau",
+      "numero": "125",
+      "complemento": "",
+      "bairro": "Jardim Priscila",
+      "municipio": "SAO JOAO DA BOA VISTA",
+      "uf": "SP",
+      "cep": "13874234",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46428470",
+    "razaoSocialNome": "TERRAPLENAGEM BASSI LTDA",
+    "codigoAgenteSIMP": "5046428470",
+    "dataAutorizacaoInstalacao": "24/03/2014",
+    "logradouro": "AVENIDA TREZE DE MAIO",
+    "numero": "365",
+    "complemento": "",
+    "bairro": "JARDIM SAO JORGE",
+    "municipio": "SAO JOAO DA BOA VISTA",
+    "uf": "SP",
+    "cep": "13874690",
+    "instalacao": {
+      "cnpjCpf": "46428470000151",
+      "nomeInstalacao": "TERRAPLENAGEM BASSI LTDA",
+      "codigoAgenteSIMP": "1205188",
+      "logradouro": "AVENIDA TREZE DE MAIO",
+      "numero": "365",
+      "complemento": "",
+      "bairro": "JARDIM SAO JORGE",
+      "municipio": "SAO JOAO DA BOA VISTA",
+      "uf": "SP",
+      "cep": "13874690",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "66905498",
+    "razaoSocialNome": "CONCREBAND TECNOLOGIA EM CONCRETOS LTDA",
+    "codigoAgenteSIMP": "5066905498",
+    "dataAutorizacaoInstalacao": "24/04/2014",
+    "logradouro": "Rod. SP-215",
+    "numero": "s/n",
+    "complemento": "km 148,9",
+    "bairro": "Distrito Industrial",
+    "municipio": "SAO CARLOS",
+    "uf": "SP",
+    "cep": "13560970",
+    "instalacao": {
+      "cnpjCpf": "66905498000220",
+      "nomeInstalacao": "CONCREBAND TECNOLOGIA EM CONCRETOS LTDA",
+      "codigoAgenteSIMP": "1205822",
+      "logradouro": "AVENIDA   PERCY GANDINI",
+      "numero": "1895",
+      "complemento": "",
+      "bairro": "VILA TONINHO",
+      "municipio": "SAO JOSE DO RIO PRETO",
+      "uf": "SP",
+      "cep": "15077000",
+      "licensa": {
+        "orgaoEmissor": "14007874",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "31/08/2021"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "43784488820",
+    "razaoSocialNome": "ANGELO MARQUESIM",
+    "codigoAgenteSIMP": "8437844888",
+    "dataAutorizacaoInstalacao": "11/06/2014",
+    "logradouro": "Estrada Pardinho - Angatuba",
+    "numero": "s/n",
+    "complemento": "Km 19",
+    "bairro": "Zona Rural",
+    "municipio": "BOTUCATU",
+    "uf": "SP",
+    "cep": "18640000",
+    "instalacao": {
+      "cnpjCpf": "43784488820",
+      "nomeInstalacao": "ANGELO MARQUESIM",
+      "codigoAgenteSIMP": "1206960",
+      "logradouro": "Estrada de Acesso Rodovia SP 225",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "Zona Rural",
+      "municipio": "SAO MANUEL",
+      "uf": "SP",
+      "cep": "18650000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "33010786",
+    "razaoSocialNome": "CITROSUCO S/A AGROINDUSTRIA",
+    "codigoAgenteSIMP": "5033010786",
+    "dataAutorizacaoInstalacao": "12/02/2014",
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "305",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "municipio": "MATAO",
+    "uf": "SP",
+    "cep": "15990902",
+    "instalacao": {
+      "cnpjCpf": "33010786011979",
+      "nomeInstalacao": "CITROSUCO S/A AGROINDÚSTRIA",
+      "codigoAgenteSIMP": "1204173",
+      "logradouro": "Rodovia Geraldo Pereira de Barros",
+      "numero": "S/n",
+      "complemento": "Km 185",
+      "bairro": "Rural",
+      "municipio": "SAO MANUEL",
+      "uf": "SP",
+      "cep": "18650000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "04574615",
+    "razaoSocialNome": "EMPRESA SAO MANUEL VIAGENS E TURISMO LTDA - EPP",
+    "codigoAgenteSIMP": "5004574615",
+    "dataAutorizacaoInstalacao": "04/09/2014",
+    "logradouro": "AVENIDA IRMAS CAMPOS SILVEIRA",
+    "numero": "474",
+    "complemento": "",
+    "bairro": "CENTRO",
+    "municipio": "SAO MANUEL",
+    "uf": "SP",
+    "cep": "18650000",
+    "instalacao": {
+      "cnpjCpf": "04574615000182",
+      "nomeInstalacao": "EMPRESA SAO MANUEL VIAGENS E TURISMO LTDA - EPP",
+      "codigoAgenteSIMP": "1208826",
+      "logradouro": "AVENIDA IRMAS CAMPOS SILVEIRA",
+      "numero": "474",
+      "complemento": "",
+      "bairro": "CENTRO",
+      "municipio": "SAO MANUEL",
+      "uf": "SP",
+      "cep": "18650000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46415998",
+    "razaoSocialNome": "Prefeitura Municipal de São Pedro",
+    "codigoAgenteSIMP": "5046415998",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Avenida Bandeirantes",
+    "numero": "505",
+    "complemento": "",
+    "bairro": "Recanto das Águas",
+    "municipio": "SAO PEDRO",
+    "uf": "SP",
+    "cep": "13520970",
+    "instalacao": {
+      "cnpjCpf": "46415998000196",
+      "nomeInstalacao": "Prefeitura Municipal de São Pedro",
+      "codigoAgenteSIMP": "1209803",
+      "logradouro": "Avenida Bandeirantes",
+      "numero": "505",
+      "complemento": "",
+      "bairro": "Recanto das Águas",
+      "municipio": "SAO PEDRO",
+      "uf": "SP",
+      "cep": "13520970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "54360623",
+    "razaoSocialNome": "VIAÇÃO PIRACICABANA S.A.",
+    "codigoAgenteSIMP": "5054360623",
+    "dataAutorizacaoInstalacao": "12/12/2014",
+    "logradouro": "Rua Professor  Francisco Pereira da Silva",
+    "numero": "140",
+    "complemento": "",
+    "bairro": "Vila Santa Izabel",
+    "municipio": "CACAPAVA",
+    "uf": "SP",
+    "cep": "12284430",
+    "instalacao": {
+      "cnpjCpf": "54360623004000",
+      "nomeInstalacao": "VIAÇÃO PIRACICABANA LTDA.",
+      "codigoAgenteSIMP": "1211455",
+      "logradouro": "RODOVIA RAPOSO TAVARES",
+      "numero": "6000",
+      "complemento": "",
+      "bairro": "VILA NOVA SAO ROQUE",
+      "municipio": "SAO ROQUE",
+      "uf": "SP",
+      "cep": "18131220",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "46482832",
+    "razaoSocialNome": "Prefeitura Municipal de São Sebastião",
+    "codigoAgenteSIMP": "5046482832",
+    "dataAutorizacaoInstalacao": "13/10/2014",
+    "logradouro": "Avenida Walquir Vergani",
+    "numero": "70",
+    "complemento": "",
+    "bairro": "Boiçucanga",
+    "municipio": "SAO SEBASTIAO",
+    "uf": "SP",
+    "cep": "11600972",
+    "instalacao": {
+      "cnpjCpf": "46482832000192",
+      "nomeInstalacao": "Prefeitura Municipal de São Sebastião",
+      "codigoAgenteSIMP": "1209805",
+      "logradouro": "Avenida Outeiro",
+      "numero": "31",
+      "complemento": "",
+      "bairro": "Centro",
+      "municipio": "SAO SEBASTIAO",
+      "uf": "SP",
+      "cep": "11600970",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "2",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 9
+        },
+        {
+          "nome": "3",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 6
+        },
+        {
+          "nome": "4",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 15
+        },
+        {
+          "nome": "5",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45369188",
+    "razaoSocialNome": "MINERACAO DARCY R.O. E SILVA LTDA",
+    "codigoAgenteSIMP": "5045369188",
+    "dataAutorizacaoInstalacao": "14/08/2014",
+    "logradouro": "ESTRADA FAZENDA LUCIANA",
+    "numero": "s/n",
+    "complemento": "",
+    "bairro": "ZONA RURAL",
+    "municipio": "SAO SIMAO",
+    "uf": "SP",
+    "cep": "14200000",
+    "instalacao": {
+      "cnpjCpf": "45369188000188",
+      "nomeInstalacao": "MINERACAO DARCY R.O. E SILVA LTDA",
+      "codigoAgenteSIMP": "1208461",
+      "logradouro": "ESTRADA FAZENDA LUCIANA",
+      "numero": "s/n",
+      "complemento": "",
+      "bairro": "ZONA RURAL",
+      "municipio": "SAO SIMAO",
+      "uf": "SP",
+      "cep": "14200000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "23647365",
+    "razaoSocialNome": "BAUMINAS QUIMICA N/NE LTDA",
+    "codigoAgenteSIMP": "5023647365",
+    "dataAutorizacaoInstalacao": "02/10/2014",
+    "logradouro": "RODOVIA INDIO TIBIRICA",
+    "numero": "4033",
+    "complemento": "",
+    "bairro": "RAFFO",
+    "municipio": "SUZANO",
+    "uf": "SP",
+    "cep": "08620000",
+    "instalacao": {
+      "cnpjCpf": "23647365000108",
+      "nomeInstalacao": "BAUMINAS QUIMICA N/NE LTDA",
+      "codigoAgenteSIMP": "1209503",
+      "logradouro": "RODOVIA INDIO TIBIRICA",
+      "numero": "4033",
+      "complemento": "",
+      "bairro": "RAFFO",
+      "municipio": "SUZANO",
+      "uf": "SP",
+      "cep": "08620000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "05127408",
+    "razaoSocialNome": "FRIGO RIP TRANSPORTES E LOCAÇÃO DE VEÍCULOS LTDA.-",
+    "codigoAgenteSIMP": "5005127408",
+    "dataAutorizacaoInstalacao": "27/08/2014",
+    "logradouro": "RODOVIA INDIO TIBIRICA",
+    "numero": "12745",
+    "complemento": "SALA 10",
+    "bairro": "PALMEIRAS",
+    "municipio": "SUZANO",
+    "uf": "SP",
+    "cep": "08630000",
+    "instalacao": {
+      "cnpjCpf": "05127408000142",
+      "nomeInstalacao": "FRIGO RIP TRANSPORTES E LOCAÇÃO DE VEÍCULOS LTDA.-",
+      "codigoAgenteSIMP": "1208729",
+      "logradouro": "ESTRADA  DO MIZUKAMI",
+      "numero": "525",
+      "complemento": "GALPÃO B",
+      "bairro": "PALMEIRAS",
+      "municipio": "SUZANO",
+      "uf": "SP",
+      "cep": "08630210",
+      "licensa": {
+        "orgaoEmissor": "26004314",
+        "numeroProtocolo": "SMA",
+        "dataValidadeLicenca": "09/06/2015"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S10 - COMUM",
+          "capacidadeM3": 14
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "72111321",
+    "razaoSocialNome": "ITAIQUARA ALIMENTOS S.A.",
+    "codigoAgenteSIMP": "9072111321",
+    "dataAutorizacaoInstalacao": "30/04/2014",
+    "logradouro": "FAZENDA ITAIQUARA",
+    "numero": "S/N",
+    "complemento": "ZONA RURAL",
+    "bairro": "FAZENDA ITAIQUARA",
+    "municipio": "TAPIRATIBA",
+    "uf": "SP",
+    "cep": "13760000",
+    "instalacao": {
+      "cnpjCpf": "72111321000174",
+      "nomeInstalacao": "ITAIQUARA ALIMENTOS S.A.",
+      "codigoAgenteSIMP": "1053936",
+      "logradouro": "FAZENDA ITAIQUARA",
+      "numero": "S/N",
+      "complemento": "ZONA RURAL",
+      "bairro": "FAZENDA ITAIQUARA",
+      "municipio": "TAPIRATIBA",
+      "uf": "SP",
+      "cep": "13760000",
+      "licensa": {
+        "orgaoEmissor": "922221220140425210",
+        "numeroProtocolo": "CREA",
+        "dataEmissaoProtocolo": "03/04/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "55883094",
+    "razaoSocialNome": "LEITE FAZENDA",
+    "codigoAgenteSIMP": "5055883094",
+    "dataAutorizacaoInstalacao": "05/08/2014",
+    "logradouro": "EDUARDO V NASSER",
+    "numero": "S/N",
+    "complemento": "KM293",
+    "bairro": "RURAL",
+    "municipio": "TAPIRATIBA",
+    "uf": "SP",
+    "cep": "13760000",
+    "instalacao": {
+      "cnpjCpf": "55883094000186",
+      "nomeInstalacao": "LEITE FAZENDA",
+      "codigoAgenteSIMP": "1208175",
+      "logradouro": "EDUARDO V NASSER",
+      "numero": "S/N",
+      "complemento": "KM293",
+      "bairro": "RURAL",
+      "municipio": "TAPIRATIBA",
+      "uf": "SP",
+      "cep": "13760000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "07916316",
+    "razaoSocialNome": "OROSTRATO OLAVO SILVA BARBOSA",
+    "codigoAgenteSIMP": "5007916316",
+    "dataAutorizacaoInstalacao": "08/04/2014",
+    "logradouro": "Rod Eduardo Vicente Nasser",
+    "numero": "s/n",
+    "complemento": "km 293",
+    "bairro": "ZONA RUARL",
+    "municipio": "TAPIRATIBA",
+    "uf": "SP",
+    "cep": "13760000",
+    "instalacao": {
+      "cnpjCpf": "07916316000177",
+      "nomeInstalacao": "OROSTRATO OLAVO SILVA BARBOSA",
+      "codigoAgenteSIMP": "1205591",
+      "logradouro": "Rod Eduardo Vicente Nasser",
+      "numero": "s/n",
+      "complemento": "km 293",
+      "bairro": "ZONA RUARL",
+      "municipio": "TAPIRATIBA",
+      "uf": "SP",
+      "cep": "13760000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "45043056",
+    "razaoSocialNome": "Transporte Arambari S/A",
+    "codigoAgenteSIMP": "5045043056",
+    "dataAutorizacaoInstalacao": "09/05/2014",
+    "logradouro": "Fazenda Itaiquara",
+    "numero": "S/N",
+    "complemento": "",
+    "bairro": "Rural",
+    "municipio": "TAPIRATIBA",
+    "uf": "SP",
+    "cep": "13760000",
+    "instalacao": {
+      "cnpjCpf": "45043056000161",
+      "nomeInstalacao": "Transporte Arambari S/A",
+      "codigoAgenteSIMP": "1206078",
+      "logradouro": "Fazenda Itaiquara",
+      "numero": "S/N",
+      "complemento": "",
+      "bairro": "Rural",
+      "municipio": "TAPIRATIBA",
+      "uf": "SP",
+      "cep": "13760000",
+      "licensa": {
+        "orgaoEmissor": "92221220140570301",
+        "numeroProtocolo": "CREA",
+        "dataValidadeLicenca": "09/05/2014"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "09301720",
+    "razaoSocialNome": "COMERCIAL AGRO PECUARIA SANTO ANTONIO LTDA",
+    "codigoAgenteSIMP": "5009301720",
+    "dataAutorizacaoInstalacao": "04/06/2014",
+    "logradouro": "FAZENDA SANTO ANTONIO",
+    "numero": "S/N",
+    "complemento": "ZONA RURAL",
+    "bairro": "PEDERNEIRAS",
+    "municipio": "TIETE",
+    "uf": "SP",
+    "cep": "18530000",
+    "instalacao": {
+      "cnpjCpf": "09301720000161",
+      "nomeInstalacao": "COMERCIAL AGRO PECUARIA SANTO ANTONIO LTDA",
+      "codigoAgenteSIMP": "1206679",
+      "logradouro": "FAZENDA SANTO ANTONIO",
+      "numero": "S/N",
+      "complemento": "ZONA RURAL",
+      "bairro": "PEDERNEIRAS",
+      "municipio": "TIETE",
+      "uf": "SP",
+      "cep": "18530000",
+      "licensa": {
+        "orgaoEmissor": "61/00664/10",
+        "numeroProtocolo": "CETESB",
+        "dataEmissaoProtocolo": "02/10/2012"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ETANOL HIDRATADO COMUM",
+          "capacidadeM3": 20
+        },
+        {
+          "nome": "2",
+          "produto": "GASOLINA C COMUM",
+          "capacidadeM3": 10
+        },
+        {
+          "nome": "3",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 60
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "62162847",
+    "razaoSocialNome": "JOFEGE PAVIMENTAÇÃO E CONSTRUÇÃO LTDA",
+    "codigoAgenteSIMP": "5062162847",
+    "dataAutorizacaoInstalacao": "18/09/2014",
+    "logradouro": "RUA   PEDRO MASCAGNI",
+    "numero": "650",
+    "complemento": "",
+    "bairro": "JARDIM GALETTO",
+    "municipio": "ITATIBA",
+    "uf": "SP",
+    "cep": "13253140",
+    "instalacao": {
+      "cnpjCpf": "62162847001100",
+      "nomeInstalacao": "JOFEGE PAVIMENTAÇÃO E CONSTRUÇÃO LTDA",
+      "codigoAgenteSIMP": "1209189",
+      "logradouro": "RUA   JOAO BISSOTTO FILHO",
+      "numero": "S/N",
+      "complemento": "Gleba B",
+      "bairro": "ORTIZES",
+      "municipio": "VALINHOS",
+      "uf": "SP",
+      "cep": "13110100",
+      "licensa": {
+        "orgaoEmissor": "60004492",
+        "numeroProtocolo": "CETESB",
+        "dataValidadeLicenca": "08/08/2020"
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "01937440",
+    "razaoSocialNome": "TRANSPANORAMA TRANSPORTES LTDA",
+    "codigoAgenteSIMP": "5001937440",
+    "dataAutorizacaoInstalacao": "16/06/2014",
+    "logradouro": "RODOVIA   PR-317",
+    "numero": "4652",
+    "complemento": "KM 03",
+    "bairro": "PARQUE INDUSTRIAL 200",
+    "municipio": "MARINGA",
+    "uf": "PR",
+    "cep": "87035510",
+    "instalacao": {
+      "cnpjCpf": "01937440000302",
+      "nomeInstalacao": "TRANSPANORAMA TRANSPORTES LTDA",
+      "codigoAgenteSIMP": "1207039",
+      "logradouro": "RUA   LAERTE DE PAIVA",
+      "numero": "98",
+      "complemento": "",
+      "bairro": "MACUCO",
+      "municipio": "VALINHOS",
+      "uf": "SP",
+      "cep": "13279451",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  },
+  {
+    "raizCnpjCpf": "15631987",
+    "razaoSocialNome": "CARLOS ALBERTO DE OLIVEIRA FILHOS E OUTROS",
+    "codigoAgenteSIMP": "5015631987",
+    "dataAutorizacaoInstalacao": "20/02/2014",
+    "logradouro": "Rodovia SP 215 Km 35",
+    "numero": "s/n",
+    "complemento": "Fazenda Campo Vitória",
+    "bairro": "Zona Rural",
+    "municipio": "VARGEM GRANDE DO SUL",
+    "uf": "SP",
+    "cep": "13880000",
+    "instalacao": {
+      "cnpjCpf": "15631987000110",
+      "nomeInstalacao": "CARLOS ALBERTO DE OLIVEIRA FILHOS E OUTROS",
+      "codigoAgenteSIMP": "1204570",
+      "logradouro": "Rodovia SP 215 Km 35",
+      "numero": "s/n",
+      "complemento": "Fazenda Campo Vitória",
+      "bairro": "Zona Rural",
+      "municipio": "VARGEM GRANDE DO SUL",
+      "uf": "SP",
+      "cep": "13880000",
+      "licensa": {
+        "orgaoEmissor": "",
+        "numeroProtocolo": "",
+        "dataEmissaoProtocolo": ""
+      },
+      "tanques": [
+        {
+          "nome": "1",
+          "produto": "ÓLEO DIESEL B S500 - COMUM",
+          "capacidadeM3": 15
+        }
+      ]
+    }
+  }
+]
